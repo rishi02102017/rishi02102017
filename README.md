@@ -1,7 +1,14 @@
+<p align="center">
+  <img src="https://github.com/your-username/your-image-path" alt="Your Image" width="200" />
+</p>
+
 #                                                                    👋 Hi, I'm Jyotishman Das
 
 
 ![Cool Animation](https://github.com/rishi02102017/rishi02102017/raw/main/f9b88deeae101d6a8572063bb63c286e.gif)
+### 👀 Profile Views
+
+![Profile views](https://komarev.com/ghpvc/?username=rishi02102017)
 
 ---
 
