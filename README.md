@@ -3,6 +3,8 @@
 
 ![Cool Animation](https://github.com/rishi02102017/rishi02102017/raw/main/f9b88deeae101d6a8572063bb63c286e.gif)
 
+---
+
 🎓 **Master's in Artificial Intelligence | IIT Jodhpur**  
 💼 **Ex-AI Intern @Infosys Springboard**  
 💡 **Ex-Machine Learning Operations Intern @People Tech Group**  
@@ -17,47 +19,6 @@ I am an AI enthusiast, currently pursuing my Master’s in AI at IIT Jodhpur. My
 ---
 
 📫 How to reach me: [jyotishmandas85p@gmail.com](mailto:jyotishmandas85p@gmail.com)
-
-### 🌱 Currently Learning
-- **Self-Supervised Learning**  
-- **Contrastive Representation Learning** (SimCLR, MoCo, CPC)  
-- **LLMs** (Large Language Models)  
-- **Generative AI** (GANs, Diffusion Models, VQ-VAE)  
-- **Deep Reinforcement Learning** (PPO, DQN, A3C)  
-- **Transformers** (Vision Transformers, Attention Mechanisms)  
-- **Neural Architecture Search** (NAS)  
-- **Meta-Learning** (MAML, Reptile)  
-- **3D Computer Vision** (NeRF, Multi-View Stereo, Depth Estimation)  
-- **Federated Learning** (Privacy-Preserving AI)  
-- **Robust AI** (Adversarial Training, Fairness in AI)  
-- **Multimodal Learning** (Vision + Text, Vision + Audio)  
-- **AI Ethics** (Bias Mitigation, Explainability, and Transparency in AI)  
-- **Time-Series Forecasting** (LSTMs, GRUs, Transformer-based models) 
-
----
-
-### 💻 Projects
-
-- **[RAG AI Chatbot](https://github.com/rishi02102017/Infosys_Springboard_Project/tree/main/RAG%20AI%20Chatbot)**  
-  RAG AI Chatbot and Pandas AI Agent for healthcare, leveraging advanced NLP and machine learning to automate document-based Q&A and data analysis, enhancing healthcare professionals' and researchers' efficiency.
-
-- **[AI-Driven LeadGen Scraper](https://github.com/rishi02102017/caprae-leadgen-tool)**  
-  A tool to simulate lead generation through web scraping with a built-in scoring mechanism for categorizing leads.
-
-- **[Weather Forecast App](https://github.com/rishi02102017/weather-app)**  
-  A CRUD-based app to manage weather data, integrated with **MongoDB** for full data persistence, built with **Streamlit** for real-time UI.
-
-- **[My Portfolio](https://github.com/rishi02102017/My-Portfolio)**  
-  Personal portfolio website showcasing my work, experience, and projects, built with React + Vite, deployed via Vercel, and integrated with GitHub for version control.
-
-- **[MiniPy Compiler](https://github.com/rishi02102017/minipy-compiler)**  
-  A custom Python-like language compiler with its own VM to execute bytecode and a front-end for real-time code execution and debugging.
-
-- **[Data Visualization Dashboard](https://github.com/rishi02102017/blackcoffer-dashboard)**  
-  A full-stack project built with **React**, **Flask**, and **MongoDB** for interactive data visualization, including bar charts, scatter plots, and pie charts.
-
-- **[Pandas AI Agents](https://github.com/rishi02102017/Infosys_Springboard_Project/tree/main/Pandas%20AI%20Agents)**  
-  AI-driven healthcare solutions with RAG-based document Q&A and a Pandas-powered agent for trend analysis and visualization, built using LangChain, FAISS, and Groq's Llama3-70b-8192 model.
 
 ---
 
@@ -97,6 +58,45 @@ I am an AI enthusiast, currently pursuing my Master’s in AI at IIT Jodhpur. My
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white)](https://medium.com/@jyotishmandas85p)
 
 ---
+
+### 💻 Projects
+
+- **[RAG AI Chatbot](https://github.com/rishi02102017/Infosys_Springboard_Project/tree/main/RAG%20AI%20Chatbot)**  
+  RAG AI Chatbot and Pandas AI Agent for healthcare, leveraging advanced NLP and machine learning to automate document-based Q&A and data analysis, enhancing healthcare professionals' and researchers' efficiency.
+
+- **[AI-Driven LeadGen Scraper](https://github.com/rishi02102017/caprae-leadgen-tool)**  
+  A tool to simulate lead generation through web scraping with a built-in scoring mechanism for categorizing leads.
+
+- **[Weather Forecast App](https://github.com/rishi02102017/weather-app)**  
+  A CRUD-based app to manage weather data, integrated with **MongoDB** for full data persistence, built with **Streamlit** for real-time UI.
+
+- **[My Portfolio](https://github.com/rishi02102017/My-Portfolio)**  
+  Personal portfolio website showcasing my work, experience, and projects, built with React + Vite, deployed via Vercel, and integrated with GitHub for version control.
+
+- **[MiniPy Compiler](https://github.com/rishi02102017/minipy-compiler)**  
+  A custom Python-like language compiler with its own VM to execute bytecode and a front-end for real-time code execution and debugging.
+
+- **[Data Visualization Dashboard](https://github.com/rishi02102017/blackcoffer-dashboard)**  
+  A full-stack project built with **React**, **Flask**, and **MongoDB** for interactive data visualization, including bar charts, scatter plots, and pie charts.
+
+- **[Pandas AI Agents](https://github.com/rishi02102017/Infosys_Springboard_Project/tree/main/Pandas%20AI%20Agents)**  
+  AI-driven healthcare solutions with RAG-based document Q&A and a Pandas-powered agent for trend analysis and visualization, built using LangChain, FAISS, and Groq's Llama3-70b-8192 model.
+
+  ### 🌱 Currently Learning
+- **Self-Supervised Learning**  
+- **Contrastive Representation Learning** (SimCLR, MoCo, CPC)  
+- **LLMs** (Large Language Models)  
+- **Generative AI** (GANs, Diffusion Models, VQ-VAE)  
+- **Deep Reinforcement Learning** (PPO, DQN, A3C)  
+- **Transformers** (Vision Transformers, Attention Mechanisms)  
+- **Neural Architecture Search** (NAS)  
+- **Meta-Learning** (MAML, Reptile)  
+- **3D Computer Vision** (NeRF, Multi-View Stereo, Depth Estimation)  
+- **Federated Learning** (Privacy-Preserving AI)  
+- **Robust AI** (Adversarial Training, Fairness in AI)  
+- **Multimodal Learning** (Vision + Text, Vision + Audio)  
+- **AI Ethics** (Bias Mitigation, Explainability, and Transparency in AI)  
+- **Time-Series Forecasting** (LSTMs, GRUs, Transformer-based models) 
 
 ### 📈 GitHub Stats
 
