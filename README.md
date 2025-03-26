@@ -1,11 +1,12 @@
-# 👋 Hi, I'm Jyotishman Das
+#                                                                    👋 Hi, I'm Jyotishman Das
+
+
+![Banner Image](https://github.com/rishi02102017/rishi02102017/raw/main/banner-image.jpg)
 
 🎓 **Master's in Artificial Intelligence | IIT Jodhpur**  
 💼 **Ex-AI Intern @Infosys Springboard**  
 💡 **Ex-Machine Learning Operations Intern @People Tech Group**  
 💻 **AWS Certified Solutions Architect - Associate**
-
-![Banner Image](https://github.com/rishi02102017/rishi02102017/raw/main/banner-image.jpg)
 
 ---
 
