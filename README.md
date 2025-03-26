@@ -54,7 +54,7 @@ I am an AI enthusiast, currently pursuing my Master’s in AI at IIT Jodhpur. My
 ---
 
 ### 📫 How to reach me:
-- Email: [jyotishmandas85p@gmail.com, m24csa013@iitj.ac.in](mailto:jyotishmandas85p@gmail.com)  
+- Email: [jyotishmandas85p@gmail.com], [m24csa013@iitj.ac.in](mailto:jyotishmandas85p@gmail.com)  
 - LinkedIn: [Jyotishman Das](https://www.linkedin.com/in/jyotishmandas85p/)  
 - Portfolio: [My Portfolio](https://my-portfolio-jyotishman-das-projects.vercel.app/)  
 - Medium Blog: [My Blog](https://medium.com/@jyotishmandas85p)  
