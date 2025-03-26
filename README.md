@@ -5,7 +5,7 @@
 💡 **Ex-Machine Learning Operations Intern @People Tech Group**  
 💻 **AWS Certified Solutions Architect - Associate**
 
-![Banner Image](https://github.com/rishi02102017/rishi02102017/raw/main/assets/banner-image.jpg)
+![Banner Image](https://github.com/rishi02102017/rishi02102017/raw/main/banner-image.jpg)
 
 ---
 
