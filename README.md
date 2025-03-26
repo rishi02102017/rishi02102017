@@ -5,6 +5,8 @@
 💡 **Ex-Machine Learning Operations Intern @People Tech Group**  
 💻 **AWS Certified Solutions Architect - Associate**
 
+![Banner Image](https://github.com/rishi02102017/rishi02102017/raw/main/assets/banner-image.jpg)
+
 ---
 
 ### 🚀 About Me
@@ -19,10 +21,21 @@ I am an AI enthusiast, currently pursuing my Master’s in AI at IIT Jodhpur. My
 - **Self-Supervised Learning**  
 - **Contrastive Representation Learning** (SimCLR, MoCo, CPC)  
 - **LLMs** (Large Language Models)  
+- **Generative AI** (GANs, Diffusion Models, VQ-VAE)  
+- **Deep Reinforcement Learning** (PPO, DQN, A3C)  
+- **Transformers** (Vision Transformers, Attention Mechanisms)  
+- **Neural Architecture Search** (NAS)  
+- **Meta-Learning** (MAML, Reptile)  
+- **3D Computer Vision** (NeRF, Multi-View Stereo, Depth Estimation)  
+- **Federated Learning** (Privacy-Preserving AI)  
+- **Robust AI** (Adversarial Training, Fairness in AI)  
+- **Multimodal Learning** (Vision + Text, Vision + Audio)  
+- **AI Ethics** (Bias Mitigation, Explainability, and Transparency in AI)  
+- **Time-Series Forecasting** (LSTMs, GRUs, Transformer-based models) 
 
 ---
 
-### 💻 Few Projects
+### 💻 Projects
 
 - **[RAG AI Chatbot](https://github.com/rishi02102017/Infosys_Springboard_Project/tree/main/RAG%20AI%20Chatbot)**  
   RAG AI Chatbot and Pandas AI Agent for healthcare, leveraging advanced NLP and machine learning to automate document-based Q&A and data analysis, enhancing healthcare professionals' and researchers' efficiency.
