@@ -14,7 +14,7 @@
 
 ### 🚀 About Me
 
-I am an AI enthusiast, currently pursuing my Master’s in AI at IIT Jodhpur. My areas of interest include **Machine Learning, Deep Learning**, and **Artificial Intelligence**. I am passionate about developing real-world solutions with AI and have worked on a wide range of projects across domains like **Computer Vision, NLP**, and **MLOps**.
+From building scalable AI systems to streamlining workflows with cloud technologies, I focus on delivering results that matter. I believe in transforming challenges into opportunities, and I’m always excited to push the boundaries of what's possible with AI.
 
 ---
 
