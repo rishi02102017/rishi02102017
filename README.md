@@ -14,7 +14,7 @@
 
 ### 🚀 About Me
 
-From building scalable AI systems to streamlining workflows with cloud technologies, I focus on delivering results that matter. I believe in transforming challenges into opportunities, and I’m always excited to push the boundaries of what's possible with AI.
+**From building scalable AI systems to streamlining workflows with cloud technologies, I focus on delivering results that matter. I believe in transforming challenges into opportunities, and I’m always excited to push the boundaries of what's possible with AI.** 
 
 ---
 
