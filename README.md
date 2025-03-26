@@ -18,7 +18,7 @@ I am an AI enthusiast, currently pursuing my Master’s in AI at IIT Jodhpur. My
 
 ---
 
-📫 How to reach me: [jyotishmandas85p@gmail.com](mailto:jyotishmandas85p@gmail.com)
+📫 How to reach me: [jyotishmandas85p@gmail.com](mailto:jyotishmandas85p@gmail.com), [m24csa013@iitj.ac.in](mailto:m24csa013@iitj.ac.in)  
 
 ---
 
