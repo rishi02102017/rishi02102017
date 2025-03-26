@@ -1,7 +1,7 @@
 #                                                                    👋 Hi, I'm Jyotishman Das
 
 
-![Banner Image](https://github.com/rishi02102017/rishi02102017/raw/main/banner-image.jpg)
+![Banner Image](https://github.com/<username>/<repository-name>/raw/main/videoframe_7312.png)
 
 🎓 **Master's in Artificial Intelligence | IIT Jodhpur**  
 💼 **Ex-AI Intern @Infosys Springboard**  
