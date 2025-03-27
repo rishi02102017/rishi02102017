@@ -81,4 +81,6 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rishi02102017&show_icons=true&hide=prs&count_private=true&theme=tokyonight)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rishi02102017&layout=compact&langs_count=6&theme=github_dark)
+
 ✨ Feel free to reach out to me for any collaboration or AI-related discussions!
