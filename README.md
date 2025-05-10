@@ -6,7 +6,6 @@
 ![Profile views](https://komarev.com/ghpvc/?username=rishi02102017)
 
 ---
-
 💼 **GenAI Engineer Intern @Growhut**
 🎓 **Master's in Artificial Intelligence | IIT Jodhpur**  
 💼 **Ex-AI Intern @Infosys Springboard**  
