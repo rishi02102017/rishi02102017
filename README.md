@@ -109,13 +109,10 @@
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=rishi02102017&theme=tokyonight&hide_border=true" alt="Rishi's Streak" width="100%" style="margin-top: 10px;">
     </td>
     <td style="border: none; width: 50%;">
-      <img src="https://raw.githubusercontent.com/rishi02102017/rishi02102017/main/YOUR_IMAGE.png" height="400" alt="Profile Visual">
+      <img src="https://raw.githubusercontent.com/rishi02102017/rishi02102017/main/purrgrammer.jpg" height="400" alt="Profile Visual">
     </td>
   </tr>
 </table>
-
-<!-- Holopin Badges -->
-[![An image of @rishi02102017's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/rishi02102017)](https://holopin.io/@rishi02102017)
 
 <!-- Snake Contribution Graph -->
 <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/rishi02102017/rishi02102017/output/github-contribution-grid-snake.svg" />
@@ -152,6 +149,8 @@
   <img height=300 src="https://github-readme-activity-graph.vercel.app/graph?username=rishi02102017&bg_color=1A1B27&color=BF91F3&line=38BDAE&point=70A5FD&area_color=BF91F3&border_radius=22.5&title_color=70A5FD" />
 </a>
 
+<!-- Holopin Badges -->
+[![An image of @rishi02102017's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/rishi02102017)](https://holopin.io/@rishi02102017)
 ---
 
 ✨ **Feel free to reach out for any collaboration or AI-related discussions!**
