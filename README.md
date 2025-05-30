@@ -115,7 +115,7 @@
 </table>
 
 <!-- Holopin Badges -->
-[![An image of @rishi02102017's Holopin badges](https://holopin.me/rishi02102017)](https://holopin.io/@rishi02102017)
+[![An image of @rishi02102017's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/rishi02102017)](https://holopin.io/@rishi02102017)
 
 <!-- Snake Contribution Graph -->
 <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/rishi02102017/rishi02102017/output/github-contribution-grid-snake.svg" />
