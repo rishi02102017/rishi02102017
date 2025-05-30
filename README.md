@@ -102,8 +102,15 @@
 ### 📈 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rishi02102017&show_icons=true&hide=prs&count_private=true&theme=tokyonight)
-
+      <img src="https://github-readme-stats.vercel.app/api?username=rishi02102017&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="Rishi's Stats" width="100%">
+    
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=rishi02102017&theme=tokyonight&hide_border=true" alt="Rishi's Streak" width="100%" style="margin-top: 10px;">
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rishi02102017&layout=compact&langs_count=6&theme=github_dark)
+
+<!-- Activity Graph -->
+<a href="https://github.com/rishi02102017">
+  <img height=300 src="https://github-readme-activity-graph.vercel.app/graph?username=rishi02102017&bg_color=1A1B27&color=BF91F3&line=38BDAE&point=70A5FD&area_color=BF91F3&border_radius=22.5&title_color=70A5FD" />
+</a>
 
 ✨ Feel free to reach out to me for any collaboration or AI-related discussions!
 
@@ -150,8 +157,4 @@
   </table>
 </div>
 
-<!-- Activity Graph -->
-<a href="https://github.com/rishi02102017">
-  <img height=300 src="https://github-readme-activity-graph.vercel.app/graph?username=rishi02102017&bg_color=1A1B27&color=BF91F3&line=38BDAE&point=70A5FD&area_color=BF91F3&border_radius=22.5&title_color=70A5FD" />
-</a>
 
