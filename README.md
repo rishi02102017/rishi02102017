@@ -101,20 +101,6 @@
 
 ### 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rishi02102017&show_icons=true&hide=prs&count_private=true&theme=tokyonight)
-      <img src="https://github-readme-stats.vercel.app/api?username=rishi02102017&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="Rishi's Stats" width="100%">
-       <br>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=rishi02102017&theme=tokyonight&hide_border=true" alt="Rishi's Streak" width="100%" style="margin-top: 10px;">
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rishi02102017&layout=compact&langs_count=6&theme=github_dark)
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishi02102017&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&layout=compact" height="270">
-
-<!-- Activity Graph -->
-<a href="https://github.com/rishi02102017">
-  <img height=300 src="https://github-readme-activity-graph.vercel.app/graph?username=rishi02102017&bg_color=1A1B27&color=BF91F3&line=38BDAE&point=70A5FD&area_color=BF91F3&border_radius=22.5&title_color=70A5FD" />
-</a>
-
-✨ Feel free to reach out to me for any collaboration or AI-related discussions!
-
 <table style="border-collapse: collapse; border: none; width: 100%;">
   <tr style="border: none;">
     <td style="border: none; width: 50%;">
@@ -123,20 +109,23 @@
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=rishi02102017&theme=tokyonight&hide_border=true" alt="Rishi's Streak" width="100%" style="margin-top: 10px;">
     </td>
     <td style="border: none; width: 50%;">
-      <img src="https://raw.githubusercontent.com/rishi02102017/rishi02102017/main/YOUR_IMAGE.png" height="400">
+      <img src="https://raw.githubusercontent.com/rishi02102017/rishi02102017/main/YOUR_IMAGE.png" height="400" alt="Profile Visual">
     </td>
   </tr>
 </table>
 
+<!-- Holopin Badges -->
 [![An image of @rishi02102017's Holopin badges](https://holopin.me/rishi02102017)](https://holopin.io/@rishi02102017)
 
+<!-- Snake Contribution Graph -->
 <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/rishi02102017/rishi02102017/output/github-contribution-grid-snake.svg" />
 
+<!-- Most Used Languages + Skill Icons -->
 <div align="center">
   <table width="100%">
     <tr>
       <td width="60%" align="center" valign="top">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishi02102017&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&layout=compact" height="270">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishi02102017&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&layout=compact" height="270" alt="Top Languages">
       </td>
       <td width="40%" align="center" valign="top">
         <table>
@@ -158,4 +147,11 @@
   </table>
 </div>
 
+<!-- Activity Graph -->
+<a href="https://github.com/rishi02102017">
+  <img height=300 src="https://github-readme-activity-graph.vercel.app/graph?username=rishi02102017&bg_color=1A1B27&color=BF91F3&line=38BDAE&point=70A5FD&area_color=BF91F3&border_radius=22.5&title_color=70A5FD" />
+</a>
 
+---
+
+✨ **Feel free to reach out for any collaboration or AI-related discussions!**
