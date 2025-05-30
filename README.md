@@ -103,9 +103,10 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rishi02102017&show_icons=true&hide=prs&count_private=true&theme=tokyonight)
       <img src="https://github-readme-stats.vercel.app/api?username=rishi02102017&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="Rishi's Stats" width="100%">
-    
+       <br>
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=rishi02102017&theme=tokyonight&hide_border=true" alt="Rishi's Streak" width="100%" style="margin-top: 10px;">
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rishi02102017&layout=compact&langs_count=6&theme=github_dark)
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishi02102017&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&layout=compact" height="270">
 
 <!-- Activity Graph -->
 <a href="https://github.com/rishi02102017">
