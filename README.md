@@ -99,8 +99,6 @@
 - **AI Ethics** (Bias Mitigation, Explainability, and Transparency in AI)  
 - **Time-Series Forecasting** (LSTMs, GRUs, Transformer-based models) 
 
-### 📈 GitHub Stats
-
 <table style="border-collapse: collapse; border: none; width: 100%;">
   <tr style="border: none;">
     <td style="border: none; width: 50%;">
