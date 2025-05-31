@@ -8,7 +8,6 @@
 ---
 
 - 🎓 **Master's in Artificial Intelligence | IIT Jodhpur** 
-- 💼 **GenAI Engineer Intern @Growhut**
 - 💼 **Ex-AI Intern @Infosys Springboard**  
 - 💼 **Ex-Machine Learning Operations Intern @People Tech Group**  
 - 💻 **AWS Certified Solutions Architect - Associate**
