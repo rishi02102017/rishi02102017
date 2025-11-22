@@ -8,7 +8,7 @@
 ---
 
 - 🎓 **Master's in Artificial Intelligence | IIT Jodhpur**
-- 💼 **Founder's Office- AI Intern @Crowdera**
+- 💼 **Founder's Office - AI Intern @Crowdera**
 - 💼 **Ex-Generative AI Engineer Intern @Growhut** 
 - 💼 **Ex-AI Intern @Infosys Springboard**  
 - 💼 **Ex-Machine Learning Operations Intern @People Tech Group**  
