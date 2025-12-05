@@ -13,6 +13,13 @@
 - 💼 **Ex-AI Intern @Infosys Springboard**  
 - 💼 **Ex-Machine Learning Operations Intern @People Tech Group**  
 - 💻 **AWS Certified Solutions Architect - Associate**
+- 🏆 **Winner – Tradl AI Hackathon** – Built a LangGraph-based multi-agent financial news intelligence system with 96% deduplication accuracy.
+- 🏆 **Winner – Darwix AI Hackathon** – Built a fully working AI system end-to-end in under 90 minutes.
+- 🏆 **Winner – Crowdera Hack4RealGood Hackathon** 
+- 🥇 **Top 5 – CLASH-OF-T-AI-TANS (Computer Vision Hackathon)**
+- 🏅 **5th Position – HackerRush** – Jointly organized by Career Guidance Cell (CGC), IIT Jodhpur, and HackerRank.
+
+  
 
 ---
 
