@@ -17,7 +17,7 @@
 - 🏆 **Winner – Darwix AI Hackathon** – Built a fully working AI system end-to-end in under 90 minutes.
 - 🏆 **Winner – Crowdera Hack4RealGood Hackathon** 
 - 🥇 **Top 5 – CLASH-OF-T-AI-TANS (Computer Vision Hackathon)**
-- 🏅 **5th Position – HackerRush** – Jointly organized by Career Guidance Cell (CGC), IIT Jodhpur, and HackerRank.
+- 🏅 **5th Position – HackerRush** – Jointly organized by Career Guidance Cell (CGC), IIT Jodhpur and HackerRank.
 
   
 
