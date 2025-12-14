@@ -17,6 +17,14 @@
 
 ---
 
+<div align="center">
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=BF91F3&center=true&vCenter=true&width=600&lines=Machine+Learning+%7C+Deep+Learning+%7C+AI+Research;Multi-agent+Systems+%7C+MLOps+%7C+Cloud+Infrastructure)
+
+</div>
+
+---
+
 ## 🎓 About
 
 - 🎓 **M.Tech in AI** @ IIT Jodhpur | **B.Tech in CSE** @ CIT Kokrajhar
@@ -104,7 +112,89 @@
 
 ---
 
-## 📈 GitHub Stats
+## 🏗️ System Architecture & Tech Pipeline
+
+<div align="center">
+
+### ML/AI Development Pipeline
+
+```mermaid
+graph TB
+    subgraph "Data Layer"
+        A[Raw Data] --> B[Data Processing]
+        B --> C[Feature Engineering]
+    end
+    
+    subgraph "Model Development"
+        C --> D[Model Training<br/>PyTorch/TensorFlow]
+        D --> E[Model Evaluation]
+        E --> F[Hyperparameter Tuning]
+    end
+    
+    subgraph "MLOps & Deployment"
+        F --> G[Model Registry<br/>MLflow]
+        G --> H[Containerization<br/>Docker]
+        H --> I[Orchestration<br/>Kubernetes]
+        I --> J[Cloud Deployment<br/>AWS/GCP]
+    end
+    
+    subgraph "Production"
+        J --> K[API Gateway<br/>FastAPI/Flask]
+        K --> L[Monitoring & Logging]
+        L --> M[Model Retraining]
+        M --> D
+    end
+    
+    style D fill:#EE4C2C
+    style G fill:#0194E2
+    style H fill:#2496ED
+    style I fill:#326CE5
+    style J fill:#232F3E
+```
+
+</div>
+
+<details>
+<summary><b>📋 Architecture Details & Design Decisions</b></summary>
+
+### Design Philosophy
+
+**Modular Architecture**: Each layer is decoupled, enabling independent scaling and updates. This follows microservices principles adapted for ML systems.
+
+**Key Trade-offs**:
+
+1. **Model Registry (MLflow) vs. Git-based versioning**
+   - **Chosen**: MLflow for metadata tracking, experiment management, and model lineage
+   - **Trade-off**: Additional infrastructure overhead vs. comprehensive experiment tracking
+   - **Rationale**: Research-heavy workflow requires detailed experiment comparison
+
+2. **Containerization Strategy**
+   - **Chosen**: Docker for consistency, Kubernetes for orchestration
+   - **Trade-off**: Complexity vs. scalability and portability
+   - **Rationale**: Multi-cloud deployments require container abstraction
+
+3. **API Gateway Pattern**
+   - **Chosen**: FastAPI for async performance, Flask for lightweight services
+   - **Trade-off**: Framework diversity vs. operational simplicity
+   - **Rationale**: Different endpoints have different latency requirements
+
+4. **Monitoring & Observability**
+   - **Chosen**: Custom metrics + CloudWatch/GCP Monitoring
+   - **Trade-off**: Vendor lock-in vs. native integration benefits
+   - **Rationale**: Cloud-native monitoring provides better integration with auto-scaling
+
+### Performance Optimizations
+
+- **Model Serving**: Batch inference for throughput, async endpoints for latency
+- **Caching**: Redis for frequently accessed models and embeddings
+- **Data Pipeline**: Parallel processing with Dask/Ray for large-scale feature engineering
+- **Model Optimization**: Quantization and pruning for edge deployment scenarios
+
+</details>
+
+---
+
+## 📊 GitHub Statistics
 
 <div align="center">
 
@@ -113,7 +203,7 @@
     <td width="50%" valign="top">
       <img src="https://github-readme-stats.vercel.app/api?username=rishi02102017&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" width="100%"/>
       <br><br>
-      <img src="https://github-readme-streak-stats.vercel.app/?user=rishi02102017&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="100%"/>
+      <img src="https://streak-stats.demolab.com/?user=rishi02102017&theme=tokyonight&hide_border=true&type=png" alt="GitHub Streak" width="100%"/>
     </td>
     <td width="50%" valign="top">
       <img src="https://raw.githubusercontent.com/rishi02102017/rishi02102017/main/purrgrammer.jpg" height="400" alt="Profile Visual"/>
@@ -125,7 +215,7 @@
 
 ---
 
-## 💻 Top Languages
+## 💻 Top Languages & Skills
 
 <div align="center">
 
@@ -163,6 +253,73 @@
 
 ---
 
+## 🔄 Multi-Agent System Flow
+
+<div align="center">
+
+### LangGraph-based Agent Orchestration
+
+```mermaid
+graph LR
+    subgraph "Input Layer"
+        A[User Query] --> B[Router Agent]
+    end
+    
+    subgraph "Agent Network"
+        B -->|Financial| C[News Agent]
+        B -->|Technical| D[Research Agent]
+        B -->|General| E[General Agent]
+        
+        C --> F[Deduplication<br/>96% Accuracy]
+        D --> G[Knowledge Base]
+        E --> H[LLM Processing]
+        
+        F --> I[Response Aggregator]
+        G --> I
+        H --> I
+    end
+    
+    subgraph "Output Layer"
+        I --> J[Formatted Response]
+        J --> K[User]
+    end
+    
+    style B fill:#BF91F3
+    style F fill:#38BDAE
+    style I fill:#70A5FD
+```
+
+*Architecture from Tradl AI Hackathon winning solution*
+
+</div>
+
+<details>
+<summary><b>🔍 Technical Deep Dive: Multi-Agent System</b></summary>
+
+### System Components
+
+**Router Agent**: Uses semantic similarity (sentence-transformers) to classify queries into domains. Implements fallback mechanism for ambiguous queries.
+
+**Specialized Agents**:
+- **News Agent**: Real-time financial news aggregation with 96% deduplication accuracy using MinHash LSH
+- **Research Agent**: RAG-based system with FAISS vector store, supports multi-hop reasoning
+- **General Agent**: Handles conversational queries with context management
+
+**Deduplication Pipeline**:
+- MinHash LSH for approximate similarity
+- Semantic similarity threshold: 0.85
+- Temporal windowing for news freshness
+- Achieved 96% accuracy on test set
+
+**Performance Metrics**:
+- Average response time: 1.2s
+- Throughput: 150 queries/min
+- Cost optimization: 40% reduction via Groq acceleration
+
+</details>
+
+---
+
 ## 📊 Contribution Activity
 
 <div align="center">
@@ -185,13 +342,50 @@
 
 ---
 
-## 🌱 Currently Learning
+## 🎯 Technical Focus Areas
 
 <div align="center">
 
-**Self-Supervised Learning** • **Contrastive Learning** • **Large Language Models** • **Generative AI** • **Deep Reinforcement Learning** • **Neural Architecture Search** • **Meta-Learning** • **3D Computer Vision** • **Federated Learning** • **Robust AI** • **Multimodal Learning** • **AI Ethics** • **Time-Series Forecasting**
+### Research & Development Pipeline
+
+```mermaid
+graph TD
+    A[Research Problem] --> B{Literature Review}
+    B --> C[Experimental Design]
+    C --> D[Implementation]
+    D --> E[Evaluation]
+    E --> F{Results}
+    F -->|Success| G[Publication/Deployment]
+    F -->|Iterate| C
+    G --> H[Production System]
+    
+    style A fill:#BF91F3
+    style D fill:#EE4C2C
+    style E fill:#38BDAE
+    style G fill:#70A5FD
+```
 
 </div>
+
+### Current Research Domains
+
+<div align="center">
+
+| **Domain** | **Focus** | **Technologies** |
+|:---:|:---:|:---:|
+| **Machine Unlearning** | Graph-based algorithms, 25× speedup | PyTorch, GNNs, Transformers |
+| **Audio Deepfake Detection** | Multilingual benchmark, 20 languages | Demucs, PyAnnote, Statistical Analysis |
+| **Multimodal Learning** | Vision+Text, Vision+Audio | CLIP, BLIP, Audio-Visual Transformers |
+| **MLOps** | Model deployment, monitoring | MLflow, Docker, Kubernetes, AWS |
+
+</div>
+
+<details>
+<summary><b>📚 Currently Learning</b></summary>
+
+**Self-Supervised Learning** • **Contrastive Learning** • **Large Language Models** • **Generative AI** • **Deep Reinforcement Learning** • **Neural Architecture Search** • **Meta-Learning** • **3D Computer Vision** • **Federated Learning** • **Robust AI** • **Multimodal Learning** • **AI Ethics** • **Time-Series Forecasting**
+
+</details>
 
 ---
 
