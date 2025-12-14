@@ -27,7 +27,7 @@
 ## 🎓 About
 
 - 🎓 **M.Tech in AI** @ IIT Jodhpur | **B.Tech in CSE** @ CIT Kokrajhar
-- 💼 Currently working on **AI initiatives** @ [Crowdera]([https://crowdera.co](https://www.crowdera.com/))
+- 💼 Currently working on **AI initiatives** @ [Crowdera]([https://crowdera.com])
 - 🏆 **3x Hackathon Winner** 
 - 💻 **AWS Certified Solutions Architect - Associate**
 - 🔬 Researching: **Machine Unlearning**, **Audio Deepfake Detection**, **Multimodal Learning**
