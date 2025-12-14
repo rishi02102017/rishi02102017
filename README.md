@@ -1,162 +1,228 @@
-#                                                                    👋 Hi, I'm Jyotishman Das
+<div align="center">
 
+# 👋 Hi, I'm Jyotishman Das
+
+### 🧠 AI Researcher | 🚀 ML Engineer | 🏆 Hackathon Winner
+
+[![Profile Views](https://komarev.com/ghpvc/?username=rishi02102017&color=blueviolet&style=for-the-badge)](https://github.com/rishi02102017)
+[![GitHub followers](https://img.shields.io/github/followers/rishi02102017?logo=GitHub&style=for-the-badge)](https://github.com/rishi02102017)
 
 ![Cool Animation](https://github.com/rishi02102017/rishi02102017/raw/main/f9b88deeae101d6a8572063bb63c286e.gif)
 
-![Profile views](https://komarev.com/ghpvc/?username=rishi02102017)
+**I transform challenges into opportunities, pushing the boundaries of what's possible with AI.**
+
+*Building intelligent systems that learn, adapt, and solve real-world problems*
+
+</div>
 
 ---
 
-- 🎓 **Master's in Artificial Intelligence | IIT Jodhpur**
-- 💼 **Founder's Office - AI Intern @Crowdera**
-- 💼 **Ex-Generative AI Engineer Intern @Growhut** 
-- 💼 **Ex-AI Intern @Infosys Springboard**  
-- 💼 **Ex-Machine Learning Operations Intern @People Tech Group**  
+## 🎓 About
+
+- 🎓 **M.Tech in AI** @ IIT Jodhpur | **B.Tech in CSE** @ CIT Kokrajhar
+- 💼 Currently working on **AI initiatives** @ [Crowdera](https://crowdera.co)
+- 🏆 **3x Hackathon Winner** | **A* in Generative AI & Foundation Models**
 - 💻 **AWS Certified Solutions Architect - Associate**
-- 🏆 **Winner – Tradl AI Hackathon** – Built a LangGraph-based multi-agent financial news intelligence system with 96% deduplication accuracy.
-- 🏆 **Winner – Darwix AI Hackathon** – Built a fully working AI system end-to-end in under 90 minutes.
-- 🏆 **Winner – Crowdera Hack4RealGood Hackathon** 
-- 🥇 **Top 5 – CLASH-OF-T-AI-TANS (Computer Vision Hackathon)**
-- 🏅 **5th Position – HackerRush** – Jointly organized by Career Guidance Cell (CGC), IIT Jodhpur and HackerRank.
-
-  
+- 🔬 Researching: **Machine Unlearning**, **Audio Deepfake Detection**, **Multimodal Learning**
 
 ---
 
-### 🚀 About Me
+## 🏆 Highlights
 
-**I transform challenges into opportunities, pushing the boundaries of what's possible with AI.** 
+<div align="center">
 
----
+| 🥇 **Winner** | 🥇 **Winner** | 🥇 **Winner** |
+|:---:|:---:|:---:|
+| **Tradl AI Hackathon**<br>LangGraph multi-agent system | **Darwix AI Hackathon**<br>Built in <90 minutes | **Crowdera Hack4RealGood**<br>Social impact solution |
 
-📫 **How to reach me**: [jyotishmandas85p@gmail.com](mailto:jyotishmandas85p@gmail.com), [m24csa013@iitj.ac.in](mailto:m24csa013@iitj.ac.in)  
+| 🥈 **Top 5** | 🏅 **5th Position** | ⭐ **A* Grade** |
+|:---:|:---:|:---:|
+| **CLASH-OF-T-AI-TANS**<br>Computer Vision | **HackerRush**<br>IIT Jodhpur × HackerRank | **GenAI & Foundation Models**<br>90+ across all evaluations |
 
----
-
-## 💼 Languages and Tools:
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=sqlite&logoColor=white)
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat&logo=solidity&logoColor=white)
-
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit%20Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-
-![Matplotlib](https://img.shields.io/badge/Matplotlib-003B57?style=flat&logo=matplotlib&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-9E6B61?style=flat&logo=seaborn&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-3C4F75?style=flat&logo=plotly&logoColor=white)
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
-![Airtable](https://img.shields.io/badge/Airtable-18BFFF?style=flat&logo=airtable&logoColor=white)
-![Cursor](https://img.shields.io/badge/Cursor.dev-AI%20Coding%20Assistant-blue?style=flat)
-
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B3E?style=flat&logo=streamlit&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
-![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=flat&logo=redux&logoColor=white)
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
-
-![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)
-
-![Vapi](https://img.shields.io/badge/Vapi-AI%20Voice%20Agents-blueviolet?style=flat)
-![n8n](https://img.shields.io/badge/n8n-Automation-ff6d00?style=flat&logo=n8n&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-Black?style=flat&logo=langchain&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
-![Groq](https://img.shields.io/badge/Groq-FF5F00?style=flat&logo=data:image/svg+xml;base64,...&logoColor=white)  
-
+</div>
 
 ---
 
-## 🔗 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jyotishmandas85p/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/rishi02102017)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://my-portfolio-jyotishman-das-projects.vercel.app/)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white)](https://medium.com/@jyotishmandas85p)
+## 🛠️ Tech Stack
+
+### 💻 Languages
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white)
+
+</div>
+
+### 🤖 ML/AI Frameworks
+<div align="center">
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![LangChain](https://img.shields.io/badge/LangChain-Black?style=for-the-badge&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-Black?style=for-the-badge&logo=langchain&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq-FF5F00?style=for-the-badge&logo=groq&logoColor=white)
+
+</div>
+
+### ☁️ Cloud & DevOps
+<div align="center">
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![GCP](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
+
+</div>
+
+### 🌐 Web & Backend
+<div align="center">
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+
+</div>
+
+### 🗄️ Databases
+<div align="center">
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Pinecone](https://img.shields.io/badge/Pinecone-5A67D8?style=for-the-badge&logo=pinecone&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+</div>
 
 ---
 
-  ### 🌱 Currently Learning
-- **Self-Supervised Learning**  
-- **Contrastive Representation Learning** (SimCLR, MoCo, CPC)  
-- **LLMs** (Large Language Models)  
-- **Generative AI** (GANs, Diffusion Models, VQ-VAE)  
-- **Deep Reinforcement Learning** (PPO, DQN, A3C)  
-- **Transformers** (Vision Transformers, Attention Mechanisms)  
-- **Neural Architecture Search** (NAS)  
-- **Meta-Learning** (MAML, Reptile)  
-- **3D Computer Vision** (NeRF, Multi-View Stereo, Depth Estimation)  
-- **Federated Learning** (Privacy-Preserving AI)  
-- **Robust AI** (Adversarial Training, Fairness in AI)  
-- **Multimodal Learning** (Vision + Text, Vision + Audio)  
-- **AI Ethics** (Bias Mitigation, Explainability, and Transparency in AI)  
-- **Time-Series Forecasting** (LSTMs, GRUs, Transformer-based models) 
+## 📈 GitHub Stats
 
-<table style="border-collapse: collapse; border: none; width: 100%;">
-  <tr style="border: none;">
-    <td style="border: none; width: 50%;">
-      <img src="https://github-readme-stats.vercel.app/api?username=rishi02102017&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="Rishi's Stats" width="100%">
-      <br>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=rishi02102017&theme=tokyonight&hide_border=true" alt="Rishi's Streak" width="100%" style="margin-top: 10px;">
+<div align="center">
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <img src="https://github-readme-stats.vercel.app/api?username=rishi02102017&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" width="100%"/>
+      <br><br>
+      <img src="https://github-readme-streak-stats.demolab.com/?user=rishi02102017&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="100%"/>
     </td>
-    <td style="border: none; width: 50%;">
-      <img src="https://raw.githubusercontent.com/rishi02102017/rishi02102017/main/purrgrammer.jpg" height="400" alt="Profile Visual">
+    <td width="50%" valign="top">
+      <img src="https://raw.githubusercontent.com/rishi02102017/rishi02102017/main/purrgrammer.jpg" height="400" alt="Profile Visual"/>
     </td>
   </tr>
 </table>
 
-<!-- Snake Contribution Graph -->
-<img alt="snake eating my contributions" src="https://raw.githubusercontent.com/rishi02102017/rishi02102017/output/github-contribution-grid-snake.svg" />
-
-<!-- Most Used Languages + Skill Icons -->
-<div align="center">
-  <table width="100%">
-    <tr>
-      <td width="60%" align="center" valign="top">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishi02102017&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&layout=compact" height="270" alt="Top Languages">
-      </td>
-      <td width="40%" align="center" valign="top">
-        <table>
-          <tr>
-            <td align="center"><img src="https://skillicons.dev/icons?i=python" /></td>
-            <td align="center"><img src="https://skillicons.dev/icons?i=react" /></td>
-            <td align="center"><img src="https://skillicons.dev/icons?i=nodejs" /></td>
-            <td align="center"><img src="https://skillicons.dev/icons?i=figma" /></td>
-          </tr>
-          <tr>
-            <td align="center"><img src="https://skillicons.dev/icons?i=js" /></td>
-            <td align="center"><img src="https://skillicons.dev/icons?i=html" /></td>
-            <td align="center"><img src="https://skillicons.dev/icons?i=css" /></td>
-            <td align="center"><img src="https://skillicons.dev/icons?i=vscode" /></td>
-          </tr>
-        </table>
-      </td>
-    </tr>
-  </table>
 </div>
 
-<!-- Activity Graph -->
-<a href="https://github.com/rishi02102017">
-  <img height=300 src="https://github-readme-activity-graph.vercel.app/graph?username=rishi02102017&bg_color=1A1B27&color=BF91F3&line=38BDAE&point=70A5FD&area_color=BF91F3&border_radius=22.5&title_color=70A5FD" />
-</a>
-
-<!-- Holopin Badges -->
-[![An image of @rishi02102017's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/rishi02102017)](https://holopin.io/@rishi02102017)
 ---
 
+## 💻 Top Languages
+
+<div align="center">
+
+<table width="100%">
+  <tr>
+    <td width="60%" align="center" valign="top">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishi02102017&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&layout=compact&langs_count=8" height="270" alt="Top Languages"/>
+    </td>
+    <td width="40%" align="center" valign="top">
+      <table>
+        <tr>
+          <td align="center"><img src="https://skillicons.dev/icons?i=python" width="50" height="50"/></td>
+          <td align="center"><img src="https://skillicons.dev/icons?i=react" width="50" height="50"/></td>
+          <td align="center"><img src="https://skillicons.dev/icons?i=nodejs" width="50" height="50"/></td>
+          <td align="center"><img src="https://skillicons.dev/icons?i=pytorch" width="50" height="50"/></td>
+        </tr>
+        <tr>
+          <td align="center"><img src="https://skillicons.dev/icons?i=tensorflow" width="50" height="50"/></td>
+          <td align="center"><img src="https://skillicons.dev/icons?i=aws" width="50" height="50"/></td>
+          <td align="center"><img src="https://skillicons.dev/icons?i=docker" width="50" height="50"/></td>
+          <td align="center"><img src="https://skillicons.dev/icons?i=kubernetes" width="50" height="50"/></td>
+        </tr>
+        <tr>
+          <td align="center"><img src="https://skillicons.dev/icons?i=js" width="50" height="50"/></td>
+          <td align="center"><img src="https://skillicons.dev/icons?i=opencv" width="50" height="50"/></td>
+          <td align="center"><img src="https://skillicons.dev/icons?i=mongodb" width="50" height="50"/></td>
+          <td align="center"><img src="https://skillicons.dev/icons?i=git" width="50" height="50"/></td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+---
+
+## 📊 Contribution Activity
+
+<div align="center">
+
+<a href="https://github.com/rishi02102017">
+  <img height="300" src="https://github-readme-activity-graph.vercel.app/graph?username=rishi02102017&bg_color=1A1B27&color=BF91F3&line=38BDAE&point=70A5FD&area_color=BF91F3&border_radius=22.5&title_color=70A5FD&area=true" alt="Activity Graph"/>
+</a>
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+![Snake eating my contributions](https://raw.githubusercontent.com/rishi02102017/rishi02102017/output/github-contribution-grid-snake.svg)
+
+</div>
+
+---
+
+## 🌱 Currently Learning
+
+<div align="center">
+
+🧠 **Self-Supervised Learning** | 🔄 **Contrastive Learning** | 🤖 **LLMs** | 🎨 **Generative AI** | 🎮 **Deep RL** | 🔍 **Neural Architecture Search** | 🎓 **Meta-Learning** | 👁️ **3D Computer Vision** | 🔒 **Federated Learning** | 🛡️ **Robust AI** | 🔗 **Multimodal Learning** | ⚖️ **AI Ethics** | 📊 **Time-Series Forecasting**
+
+</div>
+
+---
+
+## 🏅 Achievements & Badges
+
+<div align="center">
+
+[![An image of @rishi02102017's Holopin badges](https://holopin.me/rishi02102017)](https://holopin.io/@rishi02102017)
+
+</div>
+
+---
+
+## 🔗 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jyotishmandas85p/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rishi02102017)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://my-portfolio-jyotishman-das-projects.vercel.app/)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@jyotishmandas85p)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jyotishmandas85p@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+
 ✨ **Feel free to reach out for any collaboration or AI-related discussions!**
+
+*Building the future, one algorithm at a time* 🚀
+
+</div>
