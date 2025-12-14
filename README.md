@@ -19,7 +19,7 @@
 
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=BF91F3&center=true&vCenter=true&width=600&lines=Machine+Learning+%7C+Deep+Learning+%7C+AI+Research;Multi-agent+Systems+%7C+MLOps+%7C+Cloud+Infrastructure)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=BF91F3&center=true&vCenter=true&width=800&lines=Machine+Learning+%7C+Deep+Learning+%7C+AI+Research;MLOps+%7C+Cloud+Infrastructure+%7C+Multi-agent+Systems)
 
 </div>
 
@@ -250,73 +250,6 @@ graph TB
 </table>
 
 </div>
-
----
-
-## 🔄 Multi-Agent System Flow
-
-<div align="center">
-
-### LangGraph-based Agent Orchestration
-
-```mermaid
-graph LR
-    subgraph "Input Layer"
-        A[User Query] --> B[Router Agent]
-    end
-    
-    subgraph "Agent Network"
-        B -->|Financial| C[News Agent]
-        B -->|Technical| D[Research Agent]
-        B -->|General| E[General Agent]
-        
-        C --> F[Deduplication<br/>96% Accuracy]
-        D --> G[Knowledge Base]
-        E --> H[LLM Processing]
-        
-        F --> I[Response Aggregator]
-        G --> I
-        H --> I
-    end
-    
-    subgraph "Output Layer"
-        I --> J[Formatted Response]
-        J --> K[User]
-    end
-    
-    style B fill:#BF91F3
-    style F fill:#38BDAE
-    style I fill:#70A5FD
-```
-
-*Architecture from Tradl AI Hackathon winning solution*
-
-</div>
-
-<details>
-<summary><b>🔍 Technical Deep Dive: Multi-Agent System</b></summary>
-
-### System Components
-
-**Router Agent**: Uses semantic similarity (sentence-transformers) to classify queries into domains. Implements fallback mechanism for ambiguous queries.
-
-**Specialized Agents**:
-- **News Agent**: Real-time financial news aggregation with 96% deduplication accuracy using MinHash LSH
-- **Research Agent**: RAG-based system with FAISS vector store, supports multi-hop reasoning
-- **General Agent**: Handles conversational queries with context management
-
-**Deduplication Pipeline**:
-- MinHash LSH for approximate similarity
-- Semantic similarity threshold: 0.85
-- Temporal windowing for news freshness
-- Achieved 96% accuracy on test set
-
-**Performance Metrics**:
-- Average response time: 1.2s
-- Throughput: 150 queries/min
-- Cost optimization: 40% reduction via Groq acceleration
-
-</details>
 
 ---
 
