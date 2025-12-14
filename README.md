@@ -203,7 +203,7 @@ graph TB
     <td width="50%" valign="top">
       <img src="https://github-readme-stats.vercel.app/api?username=rishi02102017&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" width="100%"/>
       <br><br>
-      <img src="https://streak-stats.demolab.com/?user=rishi02102017&theme=tokyonight&hide_border=true&type=png" alt="GitHub Streak" width="100%"/>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=rishi02102017&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="100%"/>
     </td>
     <td width="50%" valign="top">
       <img src="https://raw.githubusercontent.com/rishi02102017/rishi02102017/main/purrgrammer.jpg" height="400" alt="Profile Visual"/>
