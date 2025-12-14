@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Jyotishman Das
 
-### 🧠 AI Researcher | 🚀 ML Engineer | 🏆 Hackathon Winner
+### AI Researcher | ML Engineer | Hackathon Winner
 
 [![Profile Views](https://komarev.com/ghpvc/?username=rishi02102017&color=blueviolet&style=for-the-badge)](https://github.com/rishi02102017)
 [![GitHub followers](https://img.shields.io/github/followers/rishi02102017?logo=GitHub&style=for-the-badge)](https://github.com/rishi02102017)
@@ -57,7 +57,7 @@
 
 </div>
 
-### 🤖 ML/AI Frameworks
+### ML/AI Frameworks
 <div align="center">
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
@@ -113,7 +113,7 @@
     <td width="50%" valign="top">
       <img src="https://github-readme-stats.vercel.app/api?username=rishi02102017&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" width="100%"/>
       <br><br>
-      <img src="https://github-readme-streak-stats.demolab.com/?user=rishi02102017&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="100%"/>
+      <img src="https://github-readme-streak-stats.vercel.app/?user=rishi02102017&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="100%"/>
     </td>
     <td width="50%" valign="top">
       <img src="https://raw.githubusercontent.com/rishi02102017/rishi02102017/main/purrgrammer.jpg" height="400" alt="Profile Visual"/>
@@ -189,7 +189,7 @@
 
 <div align="center">
 
-🧠 **Self-Supervised Learning** | 🔄 **Contrastive Learning** | 🤖 **LLMs** | 🎨 **Generative AI** | 🎮 **Deep RL** | 🔍 **Neural Architecture Search** | 🎓 **Meta-Learning** | 👁️ **3D Computer Vision** | 🔒 **Federated Learning** | 🛡️ **Robust AI** | 🔗 **Multimodal Learning** | ⚖️ **AI Ethics** | 📊 **Time-Series Forecasting**
+**Self-Supervised Learning** • **Contrastive Learning** • **Large Language Models** • **Generative AI** • **Deep Reinforcement Learning** • **Neural Architecture Search** • **Meta-Learning** • **3D Computer Vision** • **Federated Learning** • **Robust AI** • **Multimodal Learning** • **AI Ethics** • **Time-Series Forecasting**
 
 </div>
 
