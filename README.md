@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Jyotishman Das
 
-### AI Researcher | ML Engineer | Hackathon Winner
+### AI Researcher | Computer Vision & Multimodal AI
 
 [![Profile Views](https://komarev.com/ghpvc/?username=rishi02102017&color=blueviolet&style=for-the-badge)](https://github.com/rishi02102017)
 
@@ -26,10 +26,11 @@
 
 ## 🎓 About
 
+- 💼 **Computer Vision Research Engineer** @ Metafusion
 - 🎓 **M.Tech in AI** @ IIT Jodhpur | **B.Tech in CSE** @ CIT Kokrajhar
 - 🏆 **3x Hackathon Winner** 
 - 💻 **AWS Certified Solutions Architect - Associate**
-- 🔬 Researching: **Machine Unlearning**, **Audio Deepfake Detection**, **Multimodal Learning**
+- 🔬 Researching: **Multimodal AI**, **Computer Vision**, **Vision-Language Models**, **Deepfake Detection (Vision & Audio)**, **Explainable AI (XAI)**, **Machine Unlearning**, **Graph Neural Networks**
 
 ---
 
@@ -92,7 +93,7 @@
 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) z
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
