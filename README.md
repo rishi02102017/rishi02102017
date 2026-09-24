@@ -8,9 +8,7 @@
 
 ![Cool Animation](https://github.com/rishi02102017/rishi02102017/raw/main/f9b88deeae101d6a8572063bb63c286e.gif)
 
-**I transform challenges into opportunities, pushing the boundaries of what's possible with AI.**
-
-*Building intelligent systems that learn, adapt, and solve real-world problems*
+**I get bored easily, so to pass the time, I indulge in research.**
 
 </div>
 
