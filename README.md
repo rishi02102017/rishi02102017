@@ -29,7 +29,7 @@
 ## `// things i built`
 
 <p align="center">
-  <a href="https://github.com/rishi02102017/QPAudioEraser-IndiaAI-Impact-Summit-Demo"><img src="assets/cards/qpaudioeraser.svg" width="49%" alt="QPAudioEraser: makes a model forget your voice, without forgetting how to listen" /></a>
+  <a href="https://github.com/rishi02102017/RNA3D-FoldNet-GNN-Transformer-Diffusion"><img src="assets/cards/rna3d.svg" width="49%" alt="RNA3D-FoldNet: teaches a model how RNA folds in 3D with graph neural networks and diffusion" /></a>
   <a href="https://github.com/rishi02102017/HalluciDetect"><img src="assets/cards/hallucidetect.svg" width="49%" alt="HalluciDetect: catches LLMs making things up, with receipts" /></a>
 </p>
 
@@ -62,7 +62,7 @@
 
 ## `// side quests`
 
-won 3 hackathons ([Tradl AI](https://github.com/rishi02102017/Tradl-AI-Hackathon), [Darwix AI](https://github.com/rishi02102017/Darwix-AI-Hackathon), [Crowdera](https://github.com/rishi02102017/EventHub-Old)) · got a demo slot at the IndiaAI Impact Summit · scored an A\* in GenAI & Foundation Models, which i will bring up way too often.
+won 3 hackathons ([Tradl AI](https://github.com/rishi02102017/Tradl-AI-Hackathon), [Darwix AI](https://github.com/rishi02102017/Darwix-AI-Hackathon), [Crowdera](https://github.com/rishi02102017/EventHub-Old)) · co-presented my lab's [QPAudioEraser](https://github.com/rishi02102017/QPAudioEraser-IndiaAI-Impact-Summit-Demo) demo at the IndiaAI Impact Summit · scored an A\* in GenAI & Foundation Models, which i will bring up way too often.
 
 ## `// contributions, but make it 3d`
 

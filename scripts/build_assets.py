@@ -235,9 +235,9 @@ def divider():
 
 # ------------------------------------------------------------------ cards
 CARDS = [
-    ("qpaudioeraser", "QPAudioEraser", "speech unlearning · demo",
-     ["makes a model forget your voice,", "without forgetting how to listen."],
-     ["unlearning", "voice biometrics", "demo"], C["mint"]),
+    ("rna3d", "RNA3D-FoldNet", "structural biology · deep learning",
+     ["teaches a model how RNA folds in 3D.", "gnn + diffusion. biology, but make it tensors."],
+     ["pytorch-geometric", "gnn", "diffusion"], C["mint"]),
     ("hallucidetect", "HalluciDetect", "llm evaluation",
      ["catches llms making things up.", "with receipts: embeddings + fact-checks."],
      ["flask", "sentence-transformers", "plotly"], C["pink"]),
