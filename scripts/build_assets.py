@@ -17,7 +17,7 @@ def fmt(v):
 def hero():
     W, H, T = 1000, 340, 16.0  # T = typing cycle (s)
     o = []
-    o.append(f'<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 {W} {H}" width="{W}" height="{H}" role="img" aria-label="Jyotishman Das, computer vision research engineer at Metafusion">')
+    o.append(f'<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 {W} {H}" width="{W}" height="{H}" role="img" aria-label="Jyotishman Das: i teach machines to see, hear, and forget">')
     o.append(f"""<defs>
   <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="{C['bg0']}"/><stop offset="1" stop-color="{C['bg1']}"/></linearGradient>
   <radialGradient id="vig" cx="0.5" cy="0.5" r="0.75"><stop offset="0.6" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity="0.55"/></radialGradient>
@@ -32,10 +32,10 @@ def hero():
     lines = [  # (text, kind)  kind: cmd (typed) / out (appears)
         ("$ whoami", "cmd"),
         ("jyotishman das", "out-name"),
-        ("$ cat role.txt", "cmd"),
-        ("computer vision research engineer @ metafusion", "out"),
-        ("$ cat lore.txt", "cmd"),
-        ("m.tech ai @ iit jodhpur · deepfake hunter", "out-blue"),
+        ("$ cat about.txt", "cmd"),
+        ("i teach machines to see, hear, and forget.", "out"),
+        ("$ ls ~/rabbit-holes", "cmd"),
+        ("vision/  audio/  unlearning/  why_is_loss_nan/", "out-blue"),
         ("$ ", "prompt"),
     ]
     starts = [0.5, 1.3, 2.0, 3.2, 4.0, 5.2, 5.8]
@@ -187,12 +187,12 @@ def hero():
 def hud():
     W, H = 1000, 150
     stats = [
-        ("~30", "edge devices running", "my detector · Pune Metro", C["mint"]),
-        ("0", "false alarms in 141", "live alerts · NDLS", C["pink"]),
-        ("530K+", "clips · 37 languages", "singing-deepfake bench", C["blue"]),
-        ("10–20×", "faster unlearning", "vs 7 sota baselines", C["purple"]),
+        ("01:17", "peak productivity hour", "the gif is a documentary", C["mint"]),
+        ("∞", "arxiv tabs open", "reading list: ambitious", C["pink"]),
+        ("NaN", "losses survived", "and counting, somehow", C["blue"]),
+        ("3", "things i teach machines", "see · hear · forget", C["purple"]),
     ]
-    o = [f'<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 {W} {H}" width="{W}" height="{H}" role="img" aria-label="Highlights: about 30 edge devices, 0 false alarms in 141 live alerts, 530K+ clip benchmark, 10 to 20 times faster unlearning">',
+    o = [f'<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 {W} {H}" width="{W}" height="{H}" role="img" aria-label="Stats nobody asked for: peak productivity at 01:17, infinite arxiv tabs, NaN losses survived, 3 things i teach machines: see, hear, forget">',
          f"""<defs><linearGradient id="hb" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="{C['bg0']}"/><stop offset="1" stop-color="{C['bg1']}"/></linearGradient>
 <linearGradient id="hs" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#fff" stop-opacity="0"/><stop offset="0.5" stop-color="{C['mint']}" stop-opacity="0.18"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient>
 <filter id="g" x="-20%" y="-40%" width="140%" height="180%"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
@@ -206,7 +206,8 @@ def hud():
         L = 14
         for (ax, ay, sx, sy) in ((px, 22, 1, 1), (px + pw, 22, -1, 1), (px, H - 22, 1, -1), (px + pw, H - 22, -1, -1)):
             o.append(f'<path d="M{ax} {ay + sy*L} V{ay} H{ax + sx*L}" fill="none" stroke="{col}" stroke-width="2" stroke-opacity="0.85"/>')
-        o.append(f'<text x="{px + 18}" y="78" font-family="{MONO}" font-size="38" font-weight="700" fill="{col}" filter="url(#g)">{escape(num)}'
+        big = num == "∞"  # the infinity glyph is tiny in monospace fonts
+        o.append(f'<text x="{px + 18}" y="{80 if big else 78}" font-family="{MONO}" font-size="{60 if big else 38}" font-weight="700" fill="{col}" filter="url(#g)">{escape(num)}'
                  f'<animate attributeName="fill-opacity" values="1;0.75;1" dur="{3 + i*0.4}s" repeatCount="indefinite"/></text>')
         o.append(f'<text x="{px + 18}" y="104" font-family="{MONO}" font-size="12.5" fill="{C["text"]}">{escape(l1)}</text>')
         o.append(f'<text x="{px + 18}" y="122" font-family="{MONO}" font-size="12.5" fill="{C["dim"]}">{escape(l2)}</text>')
@@ -234,23 +235,23 @@ def divider():
 
 # ------------------------------------------------------------------ cards
 CARDS = [
-    ("qpaudioeraser", "QPAudioEraser", "speech unlearning · live demo",
-     ["privacy-preserving speech unlearning demo,", "presented at the IndiaAI Impact Summit 2026."],
+    ("qpaudioeraser", "QPAudioEraser", "speech unlearning · demo",
+     ["makes a model forget your voice,", "without forgetting how to listen."],
      ["unlearning", "voice biometrics", "demo"], C["mint"]),
     ("hallucidetect", "HalluciDetect", "llm evaluation",
-     ["catches llm hallucinations with semantic", "embeddings, fact-checking apis and rule-based nlp."],
+     ["catches llms making things up.", "with receipts: embeddings + fact-checks."],
      ["flask", "sentence-transformers", "plotly"], C["pink"]),
-    ("personvlm", "PersonVLM", "vision-language · edge",
-     ["a tiny vlm that writes structured person", "descriptions from images in ~25 ms."],
+    ("personvlm", "PersonVLM", "vision-language · tiny",
+     ["a vlm small enough to fit in your pocket.", "describes people in ~25 ms. no vibes, just facts."],
      ["mobilevit", "distilgpt-2", "pytorch"], C["blue"]),
-    ("aerial-guardian", "The Aerial Guardian", "multi-object tracking",
-     ["tracks tiny people in drone video: yolov8n +", "bytetrack on visdrone, 190+ fps at 960px fp16."],
+    ("aerial-guardian", "The Aerial Guardian", "tracking from the sky",
+     ["finds tiny humans in drone footage.", "190+ fps. hide and seek is cancelled."],
      ["yolov8", "bytetrack", "visdrone"], C["purple"]),
     ("swift-llm", "swift-llm", "llm inference",
-     ["cheaper, faster llm calls: faiss semantic cache", "+ complexity-based routing. 74% cache hit rate."],
+     ["llm calls, but cheaper and faster.", "asked before? already cached. 74% of the time."],
      ["faiss", "groq", "openai"], C["mint"]),
-    ("tradl", "Tradl AI", "hackathon winner · multi-agent",
-     ["langgraph multi-agent system for financial news:", "dedup (96% accuracy), entities, trader q&a."],
+    ("tradl", "Tradl AI", "hackathon winner · agents",
+     ["agents that read the news", "so traders don't have to. (we won.)"],
      ["langgraph", "agents", "nlp"], C["pink"]),
 ]
 

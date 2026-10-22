@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 150" width="1000" height="150" role="img" aria-label="Highlights: about 30 edge devices, 0 false alarms in 141 live alerts, 530K+ clip benchmark, 10 to 20 times faster unlearning">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 150" width="1000" height="150" role="img" aria-label="Stats nobody asked for: peak productivity at 01:17, infinite arxiv tabs, NaN losses survived, 3 things i teach machines: see, hear, forget">
 <defs><linearGradient id="hb" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0b0a1a"/><stop offset="1" stop-color="#1a0f2e"/></linearGradient>
 <linearGradient id="hs" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#fff" stop-opacity="0"/><stop offset="0.5" stop-color="#5EF2D6" stop-opacity="0.18"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient>
 <filter id="g" x="-20%" y="-40%" width="140%" height="180%"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
@@ -9,9 +9,9 @@
 <path d="M250 36 V22 H236" fill="none" stroke="#5EF2D6" stroke-width="2" stroke-opacity="0.85"/>
 <path d="M24 114 V128 H38" fill="none" stroke="#5EF2D6" stroke-width="2" stroke-opacity="0.85"/>
 <path d="M250 114 V128 H236" fill="none" stroke="#5EF2D6" stroke-width="2" stroke-opacity="0.85"/>
-<text x="42" y="78" font-family="'JetBrains Mono','Fira Code','SF Mono',SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="38" font-weight="700" fill="#5EF2D6" filter="url(#g)">~30<animate attributeName="fill-opacity" values="1;0.75;1" dur="3.0s" repeatCount="indefinite"/></text>
-<text x="42" y="104" font-family="'JetBrains Mono','Fira Code','SF Mono',SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="12.5" fill="#E6E1FF">edge devices running</text>
-<text x="42" y="122" font-family="'JetBrains Mono','Fira Code','SF Mono',SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="12.5" fill="#8B86B3">my detector · Pune Metro</text>
+<text x="42" y="78" font-family="'JetBrains Mono','Fira Code','SF Mono',SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="38" font-weight="700" fill="#5EF2D6" filter="url(#g)">01:17<animate attributeName="fill-opacity" values="1;0.75;1" dur="3.0s" repeatCount="indefinite"/></text>
+<text x="42" y="104" font-family="'JetBrains Mono','Fira Code','SF Mono',SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="12.5" fill="#E6E1FF">peak productivity hour</text>
+<text x="42" y="122" font-family="'JetBrains Mono','Fira Code','SF Mono',SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="12.5" fill="#8B86B3">the gif is a documentary</text>
 <circle cx="228" cy="40" r="4" fill="#5EF2D6"><animate attributeName="opacity" values="1;0.2;1" dur="1.4s" repeatCount="indefinite"/></circle><text x="218" y="44" text-anchor="end" font-family="'JetBrains Mono','Fira Code','SF Mono',SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="10" fill="#5EF2D6" letter-spacing="1.5">LIVE</text>
 </g>
 <g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.4s" dur="0.6s" fill="freeze"/>
@@ -19,27 +19,27 @@
 <path d="M492 36 V22 H478" fill="none" stroke="#FF5FA2" stroke-width="2" stroke-opacity="0.85"/>
 <path d="M266 114 V128 H280" fill="none" stroke="#FF5FA2" stroke-width="2" stroke-opacity="0.85"/>
 <path d="M492 114 V128 H478" fill="none" stroke="#FF5FA2" stroke-width="2" stroke-opacity="0.85"/>
-<text x="284" y="78" font-family="'JetBrains Mono','Fira Code','SF Mono',SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="38" font-weight="700" fill="#FF5FA2" filter="url(#g)">0<animate attributeName="fill-opacity" values="1;0.75;1" dur="3.4s" repeatCount="indefinite"/></text>
-<text x="284" y="104" font-family="'JetBrains Mono','Fira Code','SF Mono',SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="12.5" fill="#E6E1FF">false alarms in 141</text>
-<text x="284" y="122" font-family="'JetBrains Mono','Fira Code','SF Mono',SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="12.5" fill="#8B86B3">live alerts · NDLS</text>
+<text x="284" y="80" font-family="'JetBrains Mono','Fira Code','SF Mono',SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="60" font-weight="700" fill="#FF5FA2" filter="url(#g)">∞<animate attributeName="fill-opacity" values="1;0.75;1" dur="3.4s" repeatCount="indefinite"/></text>
+<text x="284" y="104" font-family="'JetBrains Mono','Fira Code','SF Mono',SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="12.5" fill="#E6E1FF">arxiv tabs open</text>
+<text x="284" y="122" font-family="'JetBrains Mono','Fira Code','SF Mono',SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="12.5" fill="#8B86B3">reading list: ambitious</text>
 </g>
 <g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.65s" dur="0.6s" fill="freeze"/>
 <path d="M508 36 V22 H522" fill="none" stroke="#70A5FD" stroke-width="2" stroke-opacity="0.85"/>
 <path d="M734 36 V22 H720" fill="none" stroke="#70A5FD" stroke-width="2" stroke-opacity="0.85"/>
 <path d="M508 114 V128 H522" fill="none" stroke="#70A5FD" stroke-width="2" stroke-opacity="0.85"/>
 <path d="M734 114 V128 H720" fill="none" stroke="#70A5FD" stroke-width="2" stroke-opacity="0.85"/>
-<text x="526" y="78" font-family="'JetBrains Mono','Fira Code','SF Mono',SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="38" font-weight="700" fill="#70A5FD" filter="url(#g)">530K+<animate attributeName="fill-opacity" values="1;0.75;1" dur="3.8s" repeatCount="indefinite"/></text>
-<text x="526" y="104" font-family="'JetBrains Mono','Fira Code','SF Mono',SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="12.5" fill="#E6E1FF">clips · 37 languages</text>
-<text x="526" y="122" font-family="'JetBrains Mono','Fira Code','SF Mono',SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="12.5" fill="#8B86B3">singing-deepfake bench</text>
+<text x="526" y="78" font-family="'JetBrains Mono','Fira Code','SF Mono',SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="38" font-weight="700" fill="#70A5FD" filter="url(#g)">NaN<animate attributeName="fill-opacity" values="1;0.75;1" dur="3.8s" repeatCount="indefinite"/></text>
+<text x="526" y="104" font-family="'JetBrains Mono','Fira Code','SF Mono',SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="12.5" fill="#E6E1FF">losses survived</text>
+<text x="526" y="122" font-family="'JetBrains Mono','Fira Code','SF Mono',SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="12.5" fill="#8B86B3">and counting, somehow</text>
 </g>
 <g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.9s" dur="0.6s" fill="freeze"/>
 <path d="M750 36 V22 H764" fill="none" stroke="#BF91F3" stroke-width="2" stroke-opacity="0.85"/>
 <path d="M976 36 V22 H962" fill="none" stroke="#BF91F3" stroke-width="2" stroke-opacity="0.85"/>
 <path d="M750 114 V128 H764" fill="none" stroke="#BF91F3" stroke-width="2" stroke-opacity="0.85"/>
 <path d="M976 114 V128 H962" fill="none" stroke="#BF91F3" stroke-width="2" stroke-opacity="0.85"/>
-<text x="768" y="78" font-family="'JetBrains Mono','Fira Code','SF Mono',SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="38" font-weight="700" fill="#BF91F3" filter="url(#g)">10–20×<animate attributeName="fill-opacity" values="1;0.75;1" dur="4.2s" repeatCount="indefinite"/></text>
-<text x="768" y="104" font-family="'JetBrains Mono','Fira Code','SF Mono',SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="12.5" fill="#E6E1FF">faster unlearning</text>
-<text x="768" y="122" font-family="'JetBrains Mono','Fira Code','SF Mono',SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="12.5" fill="#8B86B3">vs 7 sota baselines</text>
+<text x="768" y="78" font-family="'JetBrains Mono','Fira Code','SF Mono',SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="38" font-weight="700" fill="#BF91F3" filter="url(#g)">3<animate attributeName="fill-opacity" values="1;0.75;1" dur="4.2s" repeatCount="indefinite"/></text>
+<text x="768" y="104" font-family="'JetBrains Mono','Fira Code','SF Mono',SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="12.5" fill="#E6E1FF">things i teach machines</text>
+<text x="768" y="122" font-family="'JetBrains Mono','Fira Code','SF Mono',SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="12.5" fill="#8B86B3">see · hear · forget</text>
 </g>
 <rect x="-200" y="0" width="200" height="150" fill="url(#hs)"><animateTransform attributeName="transform" type="translate" values="0 0;1200 0" dur="5s" repeatCount="indefinite"/></rect>
 <rect width="1000" height="150" rx="16" fill="url(#sc)"/>

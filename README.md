@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/hero.svg" width="100%" alt="Terminal window that types: whoami, jyotishman das, computer vision research engineer at Metafusion. Next to it, a rotating 4D tesseract hologram." />
+<img src="assets/hero.svg" width="100%" alt="Terminal window that types: whoami, jyotishman das. i teach machines to see, hear, and forget. Next to it, a rotating 4D tesseract hologram." />
 
 <a href="https://github.com/rishi02102017"><img src="https://komarev.com/ghpvc/?username=rishi02102017&label=visitors&color=BF91F3&style=flat-square" alt="profile visitors" /></a>
 
@@ -14,42 +14,45 @@
 
 <img src="assets/divider.svg" width="100%" alt="" />
 
-## `// right now`
+## `// lore`
 
-- **computer vision research engineer @ [Metafusion](https://www.metafusion.ai/)**: teaching cameras to notice trains, trespassers and potholes.
-- my train detector runs on **~30 edge devices** at Pune Metro. the one at New Delhi Railway Station raised **141 alerts in live testing, zero false alarms**.
-- built **Scene Search** at NDLS: type what you're looking for, get the CCTV moment back in **~60 ms**.
-- **M.Tech in AI, IIT Jodhpur.** my thesis on singing deepfakes is **under review at AAAI 2027**.
-- AWS Certified Solutions Architect. occasionally writes things on [Medium](https://medium.com/@jyotishmandas85p).
+- cs grad who came for the code and stayed for the research.
+- by day i make cameras understand the world. by night i make models forget things, on purpose.
+- my favourite bugs are the confident ones: fakes that sound human, detectors that panic the moment the data changes, datasets that quietly lie.
+- if it only works on the test set, it doesn't work.
+- currently overthinking: vision-language models, audio deepfakes, machine unlearning, and getting big models to behave on small hardware.
 
-<img src="assets/hud.svg" width="100%" alt="Highlights: about 30 edge devices, 0 false alarms in 141 live alerts, 530K+ clip benchmark in 37 languages, 10 to 20 times faster unlearning" />
+## `// stats nobody asked for`
+
+<img src="assets/hud.svg" width="100%" alt="Stats nobody asked for: peak productivity at 01:17, infinite arxiv tabs open, NaN losses survived, 3 things i teach machines: see, hear, forget" />
 
 ## `// things i built`
 
 <p align="center">
-  <a href="https://github.com/rishi02102017/QPAudioEraser-IndiaAI-Impact-Summit-Demo"><img src="assets/cards/qpaudioeraser.svg" width="49%" alt="QPAudioEraser: privacy-preserving speech unlearning demo, presented at the IndiaAI Impact Summit 2026" /></a>
-  <a href="https://github.com/rishi02102017/HalluciDetect"><img src="assets/cards/hallucidetect.svg" width="49%" alt="HalluciDetect: catches LLM hallucinations with semantic embeddings, fact-checking APIs and rule-based NLP" /></a>
+  <a href="https://github.com/rishi02102017/QPAudioEraser-IndiaAI-Impact-Summit-Demo"><img src="assets/cards/qpaudioeraser.svg" width="49%" alt="QPAudioEraser: makes a model forget your voice, without forgetting how to listen" /></a>
+  <a href="https://github.com/rishi02102017/HalluciDetect"><img src="assets/cards/hallucidetect.svg" width="49%" alt="HalluciDetect: catches LLMs making things up, with receipts" /></a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/rishi02102017/PersonVLM"><img src="assets/cards/personvlm.svg" width="49%" alt="PersonVLM: a tiny vision-language model that writes structured person descriptions in about 25 ms" /></a>
-  <a href="https://github.com/rishi02102017/The-Aerial-Guardian-Challenge"><img src="assets/cards/aerial-guardian.svg" width="49%" alt="The Aerial Guardian: tracks tiny people in drone video with YOLOv8n and ByteTrack, 190+ FPS" /></a>
+  <a href="https://github.com/rishi02102017/PersonVLM"><img src="assets/cards/personvlm.svg" width="49%" alt="PersonVLM: a vision-language model small enough to fit in your pocket" /></a>
+  <a href="https://github.com/rishi02102017/The-Aerial-Guardian-Challenge"><img src="assets/cards/aerial-guardian.svg" width="49%" alt="The Aerial Guardian: finds tiny humans in drone footage at 190+ FPS" /></a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/rishi02102017/swift-llm"><img src="assets/cards/swift-llm.svg" width="49%" alt="swift-llm: FAISS semantic cache and complexity-based routing for LLM calls, 74% cache hit rate" /></a>
-  <a href="https://github.com/rishi02102017/Tradl-AI-Hackathon"><img src="assets/cards/tradl.svg" width="49%" alt="Tradl AI, hackathon winner: LangGraph multi-agent system for financial news, 96% dedup accuracy" /></a>
+  <a href="https://github.com/rishi02102017/swift-llm"><img src="assets/cards/swift-llm.svg" width="49%" alt="swift-llm: LLM calls, but cheaper and faster, with a semantic cache" /></a>
+  <a href="https://github.com/rishi02102017/Tradl-AI-Hackathon"><img src="assets/cards/tradl.svg" width="49%" alt="Tradl AI: agents that read the news so traders don't have to, hackathon winner" /></a>
 </p>
 
-<p align="right"><sub><a href="https://github.com/rishi02102017?tab=repositories">more experiments in the repos →</a></sub></p>
+<p align="right"><sub><a href="https://github.com/rishi02102017?tab=repositories">more chaos in the repos →</a></sub></p>
 
-## `// research`
+## `// rabbit holes`
 
-- **singing deepfakes, 37 languages.** a benchmark of 530K+ clips (2,500+ hours); 13 detectors tested, best EER 0.20%. *under review at AAAI 2027.*
-- **machine unlearning for vision + audio.** removes identities from trained models 10–20× faster than 7 state-of-the-art baselines.
-- **interpretable deepfake detection under domain shift.** took near-chance detectors to 97–99.6% average AUC across 7 public benchmarks. *manuscript in preparation.*
+- **can you tell it's fake?** ai-generated songs, dozens of languages, one uncomfortable finding: most people can't. *(paper under review)*
+- **teaching models to forget.** deleting someone from a trained network without burning it down and retraining. the right to be forgotten, but for weights.
+- **why detectors fail.** a confident wrong answer is the most interesting kind. i dig into why, then fix it without breaking everything else.
+- **vision that runs anywhere.** big-model ideas on small-device budgets. latency is a personality trait.
 
-## `// stack`
+## `// tools of the trade`
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=py,cpp,ts,bash,pytorch,tensorflow,sklearn,opencv,fastapi,flask,docker,kubernetes,aws,gcp,postgres,mongodb,linux,git&perline=9" alt="Python, C++, TypeScript, Bash, PyTorch, TensorFlow, scikit-learn, OpenCV, FastAPI, Flask, Docker, Kubernetes, AWS, GCP, PostgreSQL, MongoDB, Linux, Git" />
@@ -57,12 +60,9 @@
 
 <p align="center"><sub>also on the bench: vLLM · Qwen3-VL · YOLO · RT-DETR · TensorRT · ONNX · Milvus · LangGraph · MLflow · PySpark · Airflow</sub></p>
 
-## `// wins`
+## `// side quests`
 
-- 🏆 **3× hackathon winner**: [Tradl AI](https://github.com/rishi02102017/Tradl-AI-Hackathon) (LangGraph multi-agent news intelligence, 96% dedup accuracy), [Darwix AI](https://github.com/rishi02102017/Darwix-AI-Hackathon), [Crowdera Hack4RealGood](https://github.com/rishi02102017/EventHub-Old)
-- 🎤 picked to demo **QPAudioEraser** at the **IndiaAI Impact Summit 2026** (MeitY)
-- ⭐ **A\*** in Generative AI & Foundation Models: the only one in the course to score 90+ in every evaluation
-- 🏅 **5th** at HackRush (IIT Jodhpur × HackerRank) · **top 5** at CLASH-OF-T-AI-TANS (computer vision)
+won 3 hackathons ([Tradl AI](https://github.com/rishi02102017/Tradl-AI-Hackathon), [Darwix AI](https://github.com/rishi02102017/Darwix-AI-Hackathon), [Crowdera](https://github.com/rishi02102017/EventHub-Old)) · got a demo slot at the IndiaAI Impact Summit · scored an A\* in GenAI & Foundation Models, which i will bring up way too often.
 
 ## `// contributions, but make it 3d`
 
@@ -90,7 +90,7 @@
 
 <img src="purrgrammer.jpg" height="230" alt="Cartoon cat at a laptop: I are programmer, I make computer beep boop" />
 
-**beep boop.** if it involves cameras, deepfakes, or models that have to run on tiny hardware, i'm in.
+**beep boop.** got a weird dataset, a loss curve that looks like a seismograph, or a research idea at 1 am? i'm listening.
 
 [LinkedIn](https://www.linkedin.com/in/jyotishmandas85p/) · [Portfolio](https://jyotishman-portfolio.vercel.app/) · [Medium](https://medium.com/@jyotishmandas85p) · [Email](mailto:jyotishmandas85p@gmail.com)
 
