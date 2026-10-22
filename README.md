@@ -1,352 +1,99 @@
 <div align="center">
 
-# 👋 Hi, I'm Jyotishman Das
+<img src="assets/hero.svg" width="100%" alt="Terminal window that types: whoami, jyotishman das, computer vision research engineer at Metafusion. Next to it, a rotating 4D tesseract hologram." />
 
-### AI Researcher | Computer Vision & Multimodal AI
+<a href="https://github.com/rishi02102017"><img src="https://komarev.com/ghpvc/?username=rishi02102017&label=visitors&color=BF91F3&style=flat-square" alt="profile visitors" /></a>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=rishi02102017&color=blueviolet&style=for-the-badge)](https://github.com/rishi02102017)
+### i get bored easily, so i do research.
 
-![Cool Animation](https://github.com/rishi02102017/rishi02102017/raw/main/f9b88deeae101d6a8572063bb63c286e.gif)
+<img src="f9b88deeae101d6a8572063bb63c286e.gif" width="100%" alt="Pixel art of a neon late-night coding desk" />
 
-**I get bored easily, so to pass the time, I indulge in research.**
-
-</div>
-
----
-
-<div align="center">
-
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=BF91F3&center=true&vCenter=true&width=800&lines=Machine+Learning+%7C+Deep+Learning+%7C+AI+Research;MLOps+%7C+Cloud+Infrastructure+%7C+Multi-agent+Systems)
+*the vibe, basically · pixel art by Pixel Jeff*
 
 </div>
 
----
+<img src="assets/divider.svg" width="100%" alt="" />
 
-## 🎓 About
+## `// right now`
 
-- 💼 **Computer Vision Research Engineer** @ Metafusion
-- 🎓 **M.Tech in AI** @ IIT Jodhpur | **B.Tech in CSE** @ CIT Kokrajhar
-- 🏆 **3x Hackathon Winner** 
-- 💻 **AWS Certified Solutions Architect - Associate**
-- 🔬 Researching: **Multimodal AI**, **Computer Vision**, **Vision-Language Models**, **Deepfake Detection (Vision & Audio)**, **Explainable AI (XAI)**, **Machine Unlearning**, **Graph Neural Networks**
+- **computer vision research engineer @ [Metafusion](https://www.metafusion.ai/)**: teaching cameras to notice trains, trespassers and potholes.
+- my train detector runs on **~30 edge devices** at Pune Metro. the one at New Delhi Railway Station raised **141 alerts in live testing, zero false alarms**.
+- built **Scene Search** at NDLS: type what you're looking for, get the CCTV moment back in **~60 ms**.
+- **M.Tech in AI, IIT Jodhpur.** my thesis on singing deepfakes is **under review at AAAI 2027**.
+- AWS Certified Solutions Architect. occasionally writes things on [Medium](https://medium.com/@jyotishmandas85p).
 
----
+<img src="assets/hud.svg" width="100%" alt="Highlights: about 30 edge devices, 0 false alarms in 141 live alerts, 530K+ clip benchmark in 37 languages, 10 to 20 times faster unlearning" />
 
-## 🏆 Highlights
+## `// things i built`
+
+<p align="center">
+  <a href="https://github.com/rishi02102017/QPAudioEraser-IndiaAI-Impact-Summit-Demo"><img src="assets/cards/qpaudioeraser.svg" width="49%" alt="QPAudioEraser: privacy-preserving speech unlearning demo, presented at the IndiaAI Impact Summit 2026" /></a>
+  <a href="https://github.com/rishi02102017/HalluciDetect"><img src="assets/cards/hallucidetect.svg" width="49%" alt="HalluciDetect: catches LLM hallucinations with semantic embeddings, fact-checking APIs and rule-based NLP" /></a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/rishi02102017/PersonVLM"><img src="assets/cards/personvlm.svg" width="49%" alt="PersonVLM: a tiny vision-language model that writes structured person descriptions in about 25 ms" /></a>
+  <a href="https://github.com/rishi02102017/The-Aerial-Guardian-Challenge"><img src="assets/cards/aerial-guardian.svg" width="49%" alt="The Aerial Guardian: tracks tiny people in drone video with YOLOv8n and ByteTrack, 190+ FPS" /></a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/rishi02102017/swift-llm"><img src="assets/cards/swift-llm.svg" width="49%" alt="swift-llm: FAISS semantic cache and complexity-based routing for LLM calls, 74% cache hit rate" /></a>
+  <a href="https://github.com/rishi02102017/Tradl-AI-Hackathon"><img src="assets/cards/tradl.svg" width="49%" alt="Tradl AI, hackathon winner: LangGraph multi-agent system for financial news, 96% dedup accuracy" /></a>
+</p>
+
+<p align="right"><sub><a href="https://github.com/rishi02102017?tab=repositories">more experiments in the repos →</a></sub></p>
+
+## `// research`
+
+- **singing deepfakes, 37 languages.** a benchmark of 530K+ clips (2,500+ hours); 13 detectors tested, best EER 0.20%. *under review at AAAI 2027.*
+- **machine unlearning for vision + audio.** removes identities from trained models 10–20× faster than 7 state-of-the-art baselines.
+- **interpretable deepfake detection under domain shift.** took near-chance detectors to 97–99.6% average AUC across 7 public benchmarks. *manuscript in preparation.*
+
+## `// stack`
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,cpp,ts,bash,pytorch,tensorflow,sklearn,opencv,fastapi,flask,docker,kubernetes,aws,gcp,postgres,mongodb,linux,git&perline=9" alt="Python, C++, TypeScript, Bash, PyTorch, TensorFlow, scikit-learn, OpenCV, FastAPI, Flask, Docker, Kubernetes, AWS, GCP, PostgreSQL, MongoDB, Linux, Git" />
+</p>
+
+<p align="center"><sub>also on the bench: vLLM · Qwen3-VL · YOLO · RT-DETR · TensorRT · ONNX · Milvus · LangGraph · MLflow · PySpark · Airflow</sub></p>
+
+## `// wins`
+
+- 🏆 **3× hackathon winner**: [Tradl AI](https://github.com/rishi02102017/Tradl-AI-Hackathon) (LangGraph multi-agent news intelligence, 96% dedup accuracy), [Darwix AI](https://github.com/rishi02102017/Darwix-AI-Hackathon), [Crowdera Hack4RealGood](https://github.com/rishi02102017/EventHub-Old)
+- 🎤 picked to demo **QPAudioEraser** at the **IndiaAI Impact Summit 2026** (MeitY)
+- ⭐ **A\*** in Generative AI & Foundation Models: the only one in the course to score 90+ in every evaluation
+- 🏅 **5th** at HackRush (IIT Jodhpur × HackerRank) · **top 5** at CLASH-OF-T-AI-TANS (computer vision)
+
+## `// contributions, but make it 3d`
+
+<img src="assets/contrib-3d.svg" width="100%" alt="My last 12 months of GitHub contributions drawn as an isometric 3D city" />
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rishi02102017/rishi02102017/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rishi02102017/rishi02102017/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/rishi02102017/rishi02102017/output/github-contribution-grid-snake.svg" width="100%" alt="A snake eating my contribution graph" />
+</picture>
 
 <div align="center">
 
-| 🥇 **Winner** | 🥇 **Winner** | 🥇 **Winner** |
-|:---:|:---:|:---:|
-| **Tradl AI Hackathon**<br>LangGraph multi-agent system | **Darwix AI Hackathon**<br>Built in <90 minutes | **Crowdera Hack4RealGood**<br>Social impact solution |
+<img src="9070324cdfc07c68d60eed0c39e77573.gif" width="100%" alt="Pixel art of a dark room at 01:17, someone at the desk with headphones on" />
 
-| 🥈 **Top 5** | 🏅 **5th Position** | ⭐ **A* Grade** |
-|:---:|:---:|:---:|
-| **CLASH-OF-T-AI-TANS**<br>Computer Vision | **HackerRush**<br>IIT Jodhpur × HackerRank | **GenAI & Foundation Models**<br>90+ across all evaluations |
+*01:17. still training.*
 
 </div>
 
----
+<img src="assets/divider.svg" width="100%" alt="" />
 
-## 🛠️ Tech Stack
-
-### 💻 Languages
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white)
-
-</div>
-
-### ML/AI Frameworks
-<div align="center">
-
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![LangChain](https://img.shields.io/badge/LangChain-Black?style=for-the-badge&logo=langchain&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-Black?style=for-the-badge&logo=langchain&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Groq](https://img.shields.io/badge/Groq-FF5F00?style=for-the-badge&logo=groq&logoColor=white)
-
-</div>
-
-### ☁️ Cloud & DevOps
-<div align="center">
-
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![GCP](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
-
-</div>
-
-### 🌐 Web & Backend
-<div align="center">
-
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) z
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-
-</div>
-
-### 🗄️ Databases
-<div align="center">
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Pinecone](https://img.shields.io/badge/Pinecone-5A67D8?style=for-the-badge&logo=pinecone&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-</div>
-
----
-
-## 🏗️ System Architecture & Tech Pipeline
+## `// say hi`
 
 <div align="center">
 
-### ML/AI Development Pipeline
+<img src="purrgrammer.jpg" height="230" alt="Cartoon cat at a laptop: I are programmer, I make computer beep boop" />
 
-```mermaid
-graph TB
-    subgraph "Data Layer"
-        A[Raw Data] --> B[Data Processing]
-        B --> C[Feature Engineering]
-    end
-    
-    subgraph "Model Development"
-        C --> D[Model Training<br/>PyTorch/TensorFlow]
-        D --> E[Model Evaluation]
-        E --> F[Hyperparameter Tuning]
-    end
-    
-    subgraph "MLOps & Deployment"
-        F --> G[Model Registry<br/>MLflow]
-        G --> H[Containerization<br/>Docker]
-        H --> I[Orchestration<br/>Kubernetes]
-        I --> J[Cloud Deployment<br/>AWS/GCP]
-    end
-    
-    subgraph "Production"
-        J --> K[API Gateway<br/>FastAPI/Flask]
-        K --> L[Monitoring & Logging]
-        L --> M[Model Retraining]
-        M --> D
-    end
-    
-    style D fill:#EE4C2C
-    style G fill:#0194E2
-    style H fill:#2496ED
-    style I fill:#326CE5
-    style J fill:#232F3E
-```
+**beep boop.** if it involves cameras, deepfakes, or models that have to run on tiny hardware, i'm in.
 
-</div>
+[LinkedIn](https://www.linkedin.com/in/jyotishmandas85p/) · [Portfolio](https://jyotishman-portfolio.vercel.app/) · [Medium](https://medium.com/@jyotishmandas85p) · [Email](mailto:jyotishmandas85p@gmail.com)
 
-<details>
-<summary><b>📋 Architecture Details & Design Decisions</b></summary>
-
-### Design Philosophy
-
-**Modular Architecture**: Each layer is decoupled, enabling independent scaling and updates. This follows microservices principles adapted for ML systems.
-
-**Key Trade-offs**:
-
-1. **Model Registry (MLflow) vs. Git-based versioning**
-   - **Chosen**: MLflow for metadata tracking, experiment management, and model lineage
-   - **Trade-off**: Additional infrastructure overhead vs. comprehensive experiment tracking
-   - **Rationale**: Research-heavy workflow requires detailed experiment comparison
-
-2. **Containerization Strategy**
-   - **Chosen**: Docker for consistency, Kubernetes for orchestration
-   - **Trade-off**: Complexity vs. scalability and portability
-   - **Rationale**: Multi-cloud deployments require container abstraction
-
-3. **API Gateway Pattern**
-   - **Chosen**: FastAPI for async performance, Flask for lightweight services
-   - **Trade-off**: Framework diversity vs. operational simplicity
-   - **Rationale**: Different endpoints have different latency requirements
-
-4. **Monitoring & Observability**
-   - **Chosen**: Custom metrics + CloudWatch/GCP Monitoring
-   - **Trade-off**: Vendor lock-in vs. native integration benefits
-   - **Rationale**: Cloud-native monitoring provides better integration with auto-scaling
-
-### Performance Optimizations
-
-- **Model Serving**: Batch inference for throughput, async endpoints for latency
-- **Caching**: Redis for frequently accessed models and embeddings
-- **Data Pipeline**: Parallel processing with Dask/Ray for large-scale feature engineering
-- **Model Optimization**: Quantization and pruning for edge deployment scenarios
-
-</details>
-
----
-
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <img src="https://github-readme-stats-fast.vercel.app/api?username=rishi02102017&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" width="100%"/>
-      <br><br>
-      <img src="https://streak-stats.demolab.com?user=rishi02102017&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="100%"/>
-    </td>
-    <td width="50%" valign="top">
-      <img src="https://raw.githubusercontent.com/rishi02102017/rishi02102017/main/purrgrammer.jpg" height="400" alt="Profile Visual"/>
-    </td>
-  </tr>
-</table>
-
-</div>
-
----
-
-## 💻 Top Languages & Skills
-
-<div align="center">
-
-<table width="100%">
-  <tr>
-    <td width="60%" align="center" valign="top">
-      <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=rishi02102017&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&layout=compact&langs_count=8" height="270" alt="Top Languages"/>
-    </td>
-    <td width="40%" align="center" valign="top">
-      <table>
-        <tr>
-          <td align="center"><img src="https://skillicons.dev/icons?i=python" width="50" height="50"/></td>
-          <td align="center"><img src="https://skillicons.dev/icons?i=react" width="50" height="50"/></td>
-          <td align="center"><img src="https://skillicons.dev/icons?i=nodejs" width="50" height="50"/></td>
-          <td align="center"><img src="https://skillicons.dev/icons?i=pytorch" width="50" height="50"/></td>
-        </tr>
-        <tr>
-          <td align="center"><img src="https://skillicons.dev/icons?i=tensorflow" width="50" height="50"/></td>
-          <td align="center"><img src="https://skillicons.dev/icons?i=aws" width="50" height="50"/></td>
-          <td align="center"><img src="https://skillicons.dev/icons?i=docker" width="50" height="50"/></td>
-          <td align="center"><img src="https://skillicons.dev/icons?i=kubernetes" width="50" height="50"/></td>
-        </tr>
-        <tr>
-          <td align="center"><img src="https://skillicons.dev/icons?i=js" width="50" height="50"/></td>
-          <td align="center"><img src="https://skillicons.dev/icons?i=opencv" width="50" height="50"/></td>
-          <td align="center"><img src="https://skillicons.dev/icons?i=mongodb" width="50" height="50"/></td>
-          <td align="center"><img src="https://skillicons.dev/icons?i=git" width="50" height="50"/></td>
-        </tr>
-      </table>
-    </td>
-  </tr>
-</table>
-
-</div>
-
----
-
-## 📊 Contribution Activity
-
-<div align="center">
-
-<a href="https://github.com/rishi02102017">
-  <img height="300" src="https://github-readme-activity-graph.vercel.app/graph?username=rishi02102017&bg_color=1A1B27&color=BF91F3&line=38BDAE&point=70A5FD&area_color=BF91F3&border_radius=22.5&title_color=70A5FD&area=true" alt="Activity Graph"/>
-</a>
-
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-![Snake eating my contributions](https://raw.githubusercontent.com/rishi02102017/rishi02102017/output/github-contribution-grid-snake.svg)
-
-</div>
-
----
-
-## 🎯 Technical Focus Areas
-
-<div align="center">
-
-### Research & Development Pipeline
-
-```mermaid
-graph TD
-    A[Research Problem] --> B{Literature Review}
-    B --> C[Experimental Design]
-    C --> D[Implementation]
-    D --> E[Evaluation]
-    E --> F{Results}
-    F -->|Success| G[Publication/Deployment]
-    F -->|Iterate| C
-    G --> H[Production System]
-    
-    style A fill:#BF91F3
-    style D fill:#EE4C2C
-    style E fill:#38BDAE
-    style G fill:#70A5FD
-```
-
-</div>
-
-### Current Research Domains
-
-<div align="center">
-
-| **Domain** | **Focus** | **Technologies** |
-|:---:|:---:|:---:|
-| **Machine Unlearning** | Graph-based algorithms, 25× speedup | PyTorch, GNNs, Transformers |
-| **Audio Deepfake Detection** | Multilingual benchmark, 20 languages | Demucs, PyAnnote, Statistical Analysis |
-| **Multimodal Learning** | Vision+Text, Vision+Audio | CLIP, BLIP, Audio-Visual Transformers |
-| **MLOps** | Model deployment, monitoring | MLflow, Docker, Kubernetes, AWS |
-
-</div>
-
-<details>
-<summary><b>📚 Currently Learning</b></summary>
-
-**Self-Supervised Learning** • **Contrastive Learning** • **Large Language Models** • **Generative AI** • **Deep Reinforcement Learning** • **Neural Architecture Search** • **Meta-Learning** • **3D Computer Vision** • **Federated Learning** • **Robust AI** • **Multimodal Learning** • **AI Ethics** • **Time-Series Forecasting**
-
-</details>
-
----
-
-## 🏅 Achievements & Badges
-
-<div align="center">
-
-[![An image of @rishi02102017's Holopin badges](https://holopin.me/rishi02102017)](https://holopin.io/@rishi02102017)
-
-</div>
-
----
-
-## 🔗 Connect With Me
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jyotishmandas85p/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rishi02102017)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://jyotishman-portfolio.vercel.app/)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@jyotishmandas85p)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jyotishmandas85p@gmail.com)
-
-</div>
-
----
-
-<div align="center">
-
-✨ **Feel free to reach out for any collaboration or AI-related discussions!**
-
-*Building the future, one algorithm at a time* 🚀
+<sub>hand-made svgs · no templates were harmed · last updated october 2026</sub>
 
 </div>

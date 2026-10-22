@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 168" width="480" height="168" role="img" aria-label="HalluciDetect: catches llm hallucinations with semantic embeddings, fact-checking apis and rule-based nlp.">
+<defs><linearGradient id="bd" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="480" y2="168">
+<stop offset="0" stop-color="#FF5FA2"/><stop offset="0.35" stop-color="#BF91F3"/><stop offset="0.65" stop-color="#5EF2D6"/><stop offset="1" stop-color="#70A5FD"/>
+<animateTransform attributeName="gradientTransform" type="rotate" values="0 240.0 84.0;360 240.0 84.0" dur="6s" begin="-1s" repeatCount="indefinite"/></linearGradient>
+<linearGradient id="cb" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0b0a1a"/><stop offset="1" stop-color="#1a0f2e"/></linearGradient>
+<linearGradient id="sh" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#fff" stop-opacity="0"/><stop offset="0.5" stop-color="#fff" stop-opacity="0.07"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient>
+<clipPath id="cl"><rect x="2" y="2" width="476" height="164" rx="14"/></clipPath>
+<filter id="g" x="-10%" y="-30%" width="120%" height="160%"><feGaussianBlur stdDeviation="2" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter></defs>
+<rect x="2" y="2" width="476" height="164" rx="14" fill="url(#cb)"/>
+<rect x="2" y="2" width="476" height="164" rx="14" fill="none" stroke="url(#bd)" stroke-width="2.2"/>
+<g clip-path="url(#cl)"><rect x="-200" y="0" width="160" height="168" fill="url(#sh)" transform="skewX(-20)"><animateTransform attributeName="transform" type="translate" values="0 0;880 0" dur="7s" begin="1.2s" repeatCount="indefinite"/></rect></g>
+<circle cx="26" cy="30" r="4" fill="#FF5FA2"><animate attributeName="opacity" values="1;0.25;1" dur="2s" begin="-0.3s" repeatCount="indefinite"/></circle>
+<text x="38" y="34" font-family="'JetBrains Mono','Fira Code','SF Mono',SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="11.5" fill="#FF5FA2" letter-spacing="1.2">llm evaluation</text>
+<text x="456" y="36" text-anchor="end" font-family="'JetBrains Mono','Fira Code','SF Mono',SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="18" fill="#8B86B3">↗</text>
+<text x="22" y="66" font-family="'JetBrains Mono','Fira Code','SF Mono',SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="21" font-weight="700" fill="#E6E1FF" filter="url(#g)">HalluciDetect</text>
+<text x="22" y="92" font-family="'JetBrains Mono','Fira Code','SF Mono',SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="13" fill="#B9B3E0">catches llm hallucinations with semantic</text>
+<text x="22" y="111" font-family="'JetBrains Mono','Fira Code','SF Mono',SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="13" fill="#B9B3E0">embeddings, fact-checking apis and rule-based nlp.</text>
+<rect x="22" y="132" width="55" height="22" rx="11" fill="#FF5FA2" fill-opacity="0.12" stroke="#FF5FA2" stroke-opacity="0.55"/><text x="49.5" y="147" text-anchor="middle" font-family="'JetBrains Mono','Fira Code','SF Mono',SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="11.5" fill="#FF5FA2">flask</text>
+<rect x="85" y="132" width="173.4" height="22" rx="11" fill="#FF5FA2" fill-opacity="0.12" stroke="#FF5FA2" stroke-opacity="0.55"/><text x="171.7" y="147" text-anchor="middle" font-family="'JetBrains Mono','Fira Code','SF Mono',SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="11.5" fill="#FF5FA2">sentence-transformers</text>
+<rect x="266.4" y="132" width="62.4" height="22" rx="11" fill="#FF5FA2" fill-opacity="0.12" stroke="#FF5FA2" stroke-opacity="0.55"/><text x="297.6" y="147" text-anchor="middle" font-family="'JetBrains Mono','Fira Code','SF Mono',SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="11.5" fill="#FF5FA2">plotly</text>
+</svg>

@@ -1,0 +1,33 @@
+# .github/workflows/contrib-3d.yml
+# Redraws assets/contrib-3d.svg (the 3D "commit city") from the public contribution calendar.
+
+name: Generate 3D contributions
+
+on:
+  schedule:
+    - cron: "30 1 * * *"  # daily
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Draw the commit city
+        run: python scripts/contrib3d.py "${{ github.repository_owner }}" assets/contrib-3d.svg
+
+      - name: Commit if it changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/contrib-3d.svg
+          git diff --cached --quiet || git commit -m "Update 3D contribution city"
+          git push
