@@ -6,9 +6,9 @@
 
 ### i get bored easily, so i do research.
 
-<img src="f9b88deeae101d6a8572063bb63c286e.gif" width="100%" alt="Pixel art of a neon late-night coding desk" />
+<img src="9070324cdfc07c68d60eed0c39e77573.gif" width="100%" alt="Pixel art of a dark room at 01:17, someone at the desk with headphones on" />
 
-*the vibe, basically · pixel art by Pixel Jeff*
+*01:17. still training.*
 
 </div>
 
@@ -76,9 +76,9 @@
 
 <div align="center">
 
-<img src="9070324cdfc07c68d60eed0c39e77573.gif" width="100%" alt="Pixel art of a dark room at 01:17, someone at the desk with headphones on" />
+<img src="https://media.giphy.com/media/NKEt9elQ5cR68/giphy.gif" width="100%" alt="Pixel art of a rainy neon cyberpunk city at night with a pink HOTEL sign" />
 
-*01:17. still training.*
+*somewhere it's always raining on a neon city · [via GIPHY](https://giphy.com/gifs/NKEt9elQ5cR68)*
 
 </div>
 
