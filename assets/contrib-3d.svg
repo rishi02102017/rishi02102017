@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 470" width="1000" height="470" role="img" aria-label="244 GitHub contributions in the last year, drawn as a 3D city">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 470" width="1000" height="470" role="img" aria-label="248 GitHub contributions in the last year, drawn as a 3D city">
 <defs>
 <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#0b0a1a"/><stop offset="1" stop-color="#1a0f2e"/></linearGradient>
 <radialGradient id="pool" cx="0.5" cy="0.62" r="0.5"><stop offset="0" stop-color="#5EF2D6" stop-opacity="0.16"/><stop offset="1" stop-color="#5EF2D6" stop-opacity="0"/></radialGradient>
@@ -9,9 +9,9 @@
 <rect width="1000" height="470" rx="18" fill="url(#bg)"/>
 <rect width="1000" height="470" rx="18" fill="url(#pool)"/>
 <text x="32" y="44" font-family="'JetBrains Mono','Fira Code','SF Mono',SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="13" fill="#5EF2D6" letter-spacing="2">// COMMIT CITY</text>
-<text x="32" y="74" font-family="'JetBrains Mono','Fira Code','SF Mono',SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="24" font-weight="700" fill="#E6E1FF">244 contributions</text>
-<text x="32" y="98" font-family="'JetBrains Mono','Fira Code','SF Mono',SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="13" fill="#8B86B3">last 12 months · 44 active days · peak 33 on Dec 22</text>
-<text x="968" y="44" text-anchor="end" font-family="'JetBrains Mono','Fira Code','SF Mono',SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="12" fill="#8B86B3">@rishi02102017 · updated 2026-11-02</text>
+<text x="32" y="74" font-family="'JetBrains Mono','Fira Code','SF Mono',SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="24" font-weight="700" fill="#E6E1FF">248 contributions</text>
+<text x="32" y="98" font-family="'JetBrains Mono','Fira Code','SF Mono',SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="13" fill="#8B86B3">last 12 months · 45 active days · peak 33 on Dec 22</text>
+<text x="968" y="44" text-anchor="end" font-family="'JetBrains Mono','Fira Code','SF Mono',SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="12" fill="#8B86B3">@rishi02102017 · updated 2026-11-03</text>
 <g>
 <animateTransform attributeName="transform" type="translate" values="0 0;0 -6;0 0" dur="6s" repeatCount="indefinite" calcMode="spline" keySplines="0.45 0 0.55 1;0.45 0 0.55 1" keyTimes="0;0.5;1"/>
 <polygon points="175.6,204.5 185.1,207.0 180.0,211.5 170.5,209.0" fill="#15122b" stroke="#2a2550" stroke-width="0.6"/>
@@ -364,6 +364,7 @@
 <polygon points="747.8,391.9 757.3,394.4 752.2,398.9 742.7,396.4" fill="#15122b" stroke="#2a2550" stroke-width="0.6"/>
 <polygon points="781.2,392.5 790.7,395.0 785.6,399.5 776.1,397.0" fill="#15122b" stroke="#2a2550" stroke-width="0.6"/>
 <polygon points="814.6,393.1 824.1,395.6 819.0,400.1 809.5,397.6" fill="#15122b" stroke="#2a2550" stroke-width="0.6"/>
+<g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="2.07s" dur="0.5s" fill="freeze"/><g><polygon points="842.9,398.2 852.4,400.7 852.4,372.4 842.9,369.9" fill="#338575"/><polygon points="857.5,396.2 852.4,400.7 852.4,372.4 857.5,367.9" fill="#235b51"/><polygon points="848.0,365.5 857.5,367.9 852.4,372.4 842.9,369.9" fill="#5ef2d6"/></g></g>
 <polygon points="727.6,394.7 737.1,397.2 732.0,401.7 722.5,399.2" fill="#15122b" stroke="#2a2550" stroke-width="0.6"/>
 <polygon points="761.0,395.3 770.5,397.8 765.4,402.3 755.9,399.8" fill="#15122b" stroke="#2a2550" stroke-width="0.6"/>
 <polygon points="794.4,395.9 803.9,398.4 798.8,402.9 789.3,400.4" fill="#15122b" stroke="#2a2550" stroke-width="0.6"/>
